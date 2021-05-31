@@ -1,0 +1,327 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 16.6.0 d001May-31-2021 at 11:45:04}
+primitive 'CAP NP_CAP300_0.01UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='CAP300';
+    VALUE='0.01uF';
+  end_body;
+end_primitive;
+primitive 'CAP NP_CAP300_0.047UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='CAP300';
+    VALUE='0.047uF';
+  end_body;
+end_primitive;
+primitive 'CAP POL_CAP196_4.7UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP POL';
+    JEDEC_TYPE='CAP196';
+    VALUE='4.7uF';
+  end_body;
+end_primitive;
+primitive 'CAP POL_CAP196_22UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP POL';
+    JEDEC_TYPE='CAP196';
+    VALUE='22uF';
+  end_body;
+end_primitive;
+primitive 'CAP POL_CAP196_10UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP POL';
+    JEDEC_TYPE='CAP196';
+    VALUE='10uF';
+  end_body;
+end_primitive;
+primitive 'CAP POL_CAP196_0.047UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP POL';
+    JEDEC_TYPE='CAP196';
+    VALUE='0.047uF';
+  end_body;
+end_primitive;
+primitive 'LED_CAP196_LED';
+  pin
+    'ANODE':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'CATHODE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LED';
+    JEDEC_TYPE='CAP196';
+    VALUE='LED';
+  end_body;
+end_primitive;
+primitive 'DIODE_DO41_1S1588';
+  pin
+    'A':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'K':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='DIODE';
+    JEDEC_TYPE='DO41';
+    VALUE='1S1588';
+  end_body;
+end_primitive;
+primitive 'CON2_JUMPER2_CON2';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON2';
+    JEDEC_TYPE='JUMPER2';
+    VALUE='CON2';
+  end_body;
+end_primitive;
+primitive 'NPN ECB_TO92_2SC372';
+  pin
+    'B':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'C':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'E':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='NPN ECB';
+    JEDEC_TYPE='TO92';
+    VALUE='2SC372';
+  end_body;
+end_primitive;
+primitive 'R_RES400_330';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES400';
+    VALUE='330';
+  end_body;
+end_primitive;
+primitive 'R_RES400_100';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES400';
+    VALUE='100';
+  end_body;
+end_primitive;
+primitive 'R_RES400_3K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES400';
+    VALUE='3K';
+  end_body;
+end_primitive;
+primitive 'R_RES400_470K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES400';
+    VALUE='470K';
+  end_body;
+end_primitive;
+primitive 'R_RES400_10K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES400';
+    VALUE='10K';
+  end_body;
+end_primitive;
+primitive 'R_RES400_390K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES400';
+    VALUE='390K';
+  end_body;
+end_primitive;
+primitive 'R_RES400_1M';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES400';
+    VALUE='1M';
+  end_body;
+end_primitive;
+primitive 'NE555_5_DIP8_3_NE555';
+  pin
+    'OUT':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'RST':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(*)';
+    'VCC':
+      PIN_NUMBER='(8)';
+      PINUSE='POWER';
+    'CV':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(*)';
+    'TRG':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+    'THR':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(*)';
+    'DSCHG':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    POWER_PINS='(GND:1)';
+    PART_NAME='NE555_5';
+    JEDEC_TYPE='DIP8_3';
+    VALUE='NE555';
+  end_body;
+end_primitive;
+primitive '74LS04_DIP14_3_74LS04';
+  pin
+    'I':
+      PIN_NUMBER='(1,3,5,9,11,13)';
+      INPUT_LOAD='(*)';
+    'O':
+      PIN_NUMBER='(2,4,6,8,10,12)';
+      OUTPUT_LOAD='(*)';
+  end_pin;
+  body
+    POWER_PINS='(VCC:14)';
+    POWER_PINS='(GND:7)';
+    PART_NAME='74LS04';
+    JEDEC_TYPE='DIP14_3';
+    VALUE='74LS04';
+  end_body;
+end_primitive;
+primitive 'RESISTOR VAR_RESADJ_1M';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'B':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'WIPER':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR VAR';
+    JEDEC_TYPE='RESADJ';
+    VALUE='1M';
+  end_body;
+end_primitive;
+END.

@@ -1,0 +1,1083 @@
+\t (00:00:03) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:03)     Journal start - Mon May 24 12:02:01 2021
+\t (00:00:03)         Host=CAD20 User=user Pid=9912 CPUs=8
+\t (00:00:03) 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Database opened: C:/21-05-17/NE555_2303/allegro/NE555_2303.brd
+\i (00:00:06) trapsize 1276
+\i (00:00:06) trapsize 1230
+\i (00:00:06) trapsize 1284
+\i (00:00:06) trapsize 1284
+\i (00:00:07) generaledit 
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 27.899 13.407
+\i (00:00:07) trapsize 642
+\i (00:00:08) roam start
+\i (00:00:08) roam x -64
+\i (00:00:08) roam y 16
+\i (00:00:08) roam x -16
+\i (00:00:08) roam x -64
+\i (00:00:08) roam y 32
+\i (00:00:09) roam x -48
+\i (00:00:09) roam y 16
+\i (00:00:09) roam x -16
+\i (00:00:09) roam end
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 46.522 30.221
+\i (00:00:09) trapsize 321
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 49.025 31.312
+\i (00:00:10) trapsize 160
+\i (00:00:10) roam start
+\i (00:00:10) roam x -112
+\i (00:00:10) roam y 32
+\i (00:00:11) roam x -64
+\i (00:00:11) roam y 16
+\i (00:00:11) roam x -64
+\i (00:00:11) roam x -32
+\i (00:00:11) roam y 16
+\i (00:00:11) roam x -48
+\i (00:00:11) roam y 16
+\i (00:00:11) roam x -64
+\i (00:00:11) roam y 16
+\i (00:00:11) roam x -48
+\i (00:00:11) roam y 16
+\i (00:00:11) roam x -32
+\i (00:00:11) roam y 16
+\i (00:00:11) roam x -96
+\i (00:00:11) roam y 16
+\i (00:00:11) roam x -48
+\i (00:00:11) roam y 16
+\i (00:00:11) roam x -32
+\i (00:00:11) roam y 16
+\i (00:00:11) roam x -16
+\i (00:00:11) roam end
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 27.908 25.662
+\i (00:00:11) trapsize 321
+\i (00:00:12) roam start
+\i (00:00:12) roam x 16
+\i (00:00:12) roam x 80
+\i (00:00:12) roam x 16
+\i (00:00:12) roam x 32
+\i (00:00:12) roam x 32
+\i (00:00:12) roam x 16
+\i (00:00:12) roam y 16
+\i (00:00:13) roam end
+\i (00:00:13) zoom fit 
+\i (00:00:13) trapsize 320
+\i (00:00:19) artwork 
+\i (00:00:22) setwindow form.film_control
+\i (00:00:22) FORM film_control general_parameters  
+\i (00:00:22) FORM film_control cancel  
+\i (00:00:22) setwindow pcb
+\i (00:00:22) generaledit 
+\i (00:02:16) prmed 
+\i (00:02:17) setwindow form.prmedit
+\i (00:02:17) FORM prmedit design  
+\i (00:02:18) FORM prmedit cancel  
+\i (00:02:18) setwindow pcb
+\i (00:02:18) generaledit 
+\i (00:02:23) add text 
+\t (00:02:23) Pick text location.
+\i (00:02:26) setwindow form.mini
+\i (00:02:26) FORM mini class BOARD GEOMETRY 
+\i (00:02:29) FORM mini subclass SILKSCREEN_TOP 
+\i (00:02:30) FORM mini text_block 1 
+\i (00:02:31) setwindow pcb
+\i (00:02:31) pick grid 13.655 4.169
+\t (00:02:31) last pick:  12.700  5.080
+\t (00:02:31) Enter text string.
+\i (00:02:36) setwindow pcb
+\i (00:02:36) done 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) pick 12.700 5.080
+\i (00:02:37) setwindow pcb
+\i (00:02:37) generaledit 
+\i (00:02:38) save 
+\i (00:02:39) fillin yes 
+\i (00:02:39) generaledit 
+\i (00:02:40) move 
+\t (00:02:40) Select element(s) to move.
+\i (00:02:41) pick grid 13.334 6.156
+\t (00:02:41) last pick:  12.700  5.080
+\t (00:02:41) last pick:  12.700  5.080
+\t (00:02:41) Pick new location for the element(s).
+\i (00:02:44) pick grid 8.399 3.784
+\t (00:02:44) last pick:  7.620  2.540
+\i (00:02:46) zoom out 1 
+\i (00:02:46) setwindow pcb
+\i (00:02:46) zoom out 33.268 16.026
+\i (00:02:46) trapsize 641
+\i (00:02:47) zoom fit 
+\i (00:02:47) trapsize 320
+\i (00:02:47) save 
+\i (00:02:48) fillin yes 
+\i (00:02:48) generaledit 
+\i (00:02:50) roam start
+\i (00:02:50) roam x -64
+\i (00:02:50) roam x -16
+\i (00:02:50) roam x -16
+\i (00:02:50) roam x -32
+\i (00:02:50) roam x -48
+\i (00:02:50) roam end
+\i (00:02:52) define grid 
+\t (00:02:52) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:02:52) generaledit 
+\i (00:02:54) setwindow form.grid
+\i (00:02:54) FORM grid non_etch non_etch_x_grids 1 
+\i (00:02:55) FORM grid non_etch non_etch_y_grids 1 
+\i (00:02:57) FORM grid all_etch all_etch_x_grids 1 
+\i (00:02:58) FORM grid all_etch all_etch_y_grids 1 
+\i (00:02:58) FORM grid done  
+\i (00:03:00) setwindow pcb
+\i (00:03:00) zoom out 1 
+\i (00:03:00) setwindow pcb
+\i (00:03:00) zoom out -0.069 27.948
+\i (00:03:00) trapsize 641
+\i (00:03:06) dimension edit 
+\i (00:03:07) prepopup -6.478 41.922
+\i (00:03:08) pop dyn_option_select '@:@Linear dimension' 
+\t (00:03:08) Pick an element or point to dimension ...
+\i (00:03:09) pick grid -0.068 50.127
+\t (00:03:09) last pick:  0.000  50.000
+\t (00:03:09) First point found ... pick the second point.
+\i (00:03:12) undo 
+\i (00:03:12) trapsize 641
+\i (00:03:12) generaledit 
+\i (00:03:14) pick grid -0.197 51.152
+\t (00:03:14) last pick:  0.000  51.000
+\i (00:03:16) dimension edit 
+\t (00:03:16) Pick an element or point to dimension ...
+\i (00:03:17) prepopup 0.573 54.485
+\i (00:03:17) prepopup -1.222 55.383
+\i (00:03:18) pick grid -8.145 57.818
+\t (00:03:18) last pick:  -8.000  58.000
+\t (00:03:18) First point found ... pick the second point.
+\w (00:03:18) WARNING(SPMHDI-89): Dimension point at (-8.000, 58.000) is not being associated with an object.
+\i (00:03:19) pick grid -4.555 55.126
+\t (00:03:19) last pick:  -5.000  55.000
+\t (00:03:19) Indicate the X or Y direction first.
+\w (00:03:19) WARNING(SPMHDI-89): Dimension point at (-5.000, 55.000) is not being associated with an object.
+\i (00:03:19) pick grid 1.726 54.101
+\t (00:03:19) last pick:  2.000  54.000
+\t (00:03:19) Indicate the X or Y direction first.
+\i (00:03:20) pick grid 7.623 52.819
+\t (00:03:20) last pick:  8.000  53.000
+\t (00:03:20) Indicate the X or Y direction first.
+\i (00:03:20) pick grid 17.622 53.331
+\t (00:03:20) last pick:  18.000  53.000
+\t (00:03:20) Indicate the X or Y direction first.
+\i (00:03:20) pick grid 20.571 58.587
+\t (00:03:20) last pick:  21.000  59.000
+\t (00:03:20) Indicate the X or Y direction first.
+\i (00:03:21) undo 
+\i (00:03:21) trapsize 641
+\i (00:03:21) generaledit 
+\i (00:03:23) dimension edit 
+\t (00:03:23) Pick an element or point to dimension ...
+\i (00:03:25) pick grid -0.068 51.280
+\t (00:03:25) last pick:  0.000  51.000
+\t (00:03:25) First point found ... pick the second point.
+\w (00:03:25) WARNING(SPMHDI-89): Dimension point at (0.000, 51.000) is not being associated with an object.
+\i (00:03:26) pick grid 4.931 51.152
+\t (00:03:26) last pick:  5.000  51.000
+\t (00:03:26) Pick location for the dimension value.
+\w (00:03:26) WARNING(SPMHDI-89): Dimension point at (5.000, 51.000) is not being associated with an object.
+\i (00:03:28) pick grid 1.598 53.331
+\t (00:03:28) last pick:  2.000  53.000
+\t (00:03:28) Pick an element or point to dimension ...
+\i (00:03:29) zoom in 1 
+\i (00:03:29) setwindow pcb
+\i (00:03:29) zoom in -0.453 51.409
+\i (00:03:29) trapsize 320
+\i (00:03:30) roam start
+\i (00:03:30) roam x 96
+\i (00:03:30) roam x 16
+\i (00:03:30) roam x 48
+\i (00:03:30) roam x 48
+\i (00:03:30) roam y 16
+\i (00:03:30) roam x 64
+\i (00:03:30) roam x 32
+\i (00:03:30) roam y 16
+\i (00:03:30) roam x 32
+\i (00:03:30) roam x 48
+\i (00:03:30) roam end
+\i (00:03:32) pick grid 45.054 51.079
+\t (00:03:32) last pick:  45.000  51.000
+\t (00:03:32) Pick an element or point to dimension ...
+\t (00:03:32) First point found ... pick the second point.
+\w (00:03:32) WARNING(SPMHDI-89): Dimension point at (45.000, 51.000) is not being associated with an object.
+\i (00:03:33) pick grid 49.926 51.272
+\t (00:03:33) last pick:  50.000  51.000
+\t (00:03:33) Pick location for the dimension value.
+\w (00:03:33) WARNING(SPMHDI-89): Dimension point at (50.000, 51.000) is not being associated with an object.
+\i (00:03:34) pick grid 48.451 52.938
+\t (00:03:34) last pick:  48.000  53.000
+\t (00:03:34) Pick an element or point to dimension ...
+\i (00:03:34) roam start
+\i (00:03:34) roam x -112
+\i (00:03:34) roam y -16
+\i (00:03:35) roam x -128
+\i (00:03:35) roam y -16
+\i (00:03:35) roam x -128
+\i (00:03:35) roam x -64
+\i (00:03:35) roam x 16
+\i (00:03:35) roam end
+\i (00:03:35) zoom out 1 
+\i (00:03:35) setwindow pcb
+\i (00:03:35) zoom out 23.582 48.964
+\i (00:03:35) trapsize 641
+\i (00:03:39) pick grid 31.146 49.734
+\t (00:03:39) last pick:  31.000  50.000
+\t (00:03:39) Pick an element or point to dimension ...
+\t (00:03:39) Pick location for the dimension value.
+\i (00:03:45) pick grid 27.429 54.862
+\t (00:03:45) last pick:  27.000  55.000
+\t (00:03:45) Pick an element or point to dimension ...
+\t (00:03:47) Pick to complete the window.
+\t (00:03:48) Grids are drawn 4.000, 4.000 apart for enhanced viewability.
+\i (00:03:48) zoom out 1 
+\i (00:03:48) setwindow pcb
+\i (00:03:48) zoom out 83.112 70.640
+\i (00:03:48) trapsize 1854
+\i (00:03:49) pick 83.112 70.640
+\t (00:03:49) last pick:  83.112  70.640
+\i (00:03:49) setwindow pcb
+\i (00:03:49) zoom points
+\i (00:03:49) pick -50.000 -132.180
+\i (00:03:49) pick 247.000 160.000
+\i (00:03:49) trapsize 1854
+\i (00:03:50) zoom in 1 
+\i (00:03:50) setwindow pcb
+\i (00:03:50) zoom in 38.618 59.887
+\i (00:03:50) trapsize 927
+\i (00:03:50) zoom in 1 
+\i (00:03:50) setwindow pcb
+\i (00:03:50) zoom in 38.062 60.073
+\i (00:03:50) trapsize 463
+\i (00:03:50) roam start
+\i (00:03:50) roam x -96
+\i (00:03:50) roam y 16
+\i (00:03:51) roam x -96
+\i (00:03:51) roam x -80
+\i (00:03:51) roam y 16
+\i (00:03:51) roam x -32
+\i (00:03:51) roam x -32
+\i (00:03:51) roam y 16
+\i (00:03:51) roam x -16
+\i (00:03:51) roam x -32
+\i (00:03:51) roam y 16
+\i (00:03:51) roam end
+\i (00:03:52) zoom out 1 
+\i (00:03:52) setwindow pcb
+\i (00:03:52) zoom out 21.840 47.888
+\i (00:03:52) trapsize 927
+\i (00:03:52) zoom out 1 
+\i (00:03:52) setwindow pcb
+\i (00:03:52) zoom out 30.275 47.888
+\i (00:03:52) trapsize 1854
+\i (00:03:52) zoom in 1 
+\i (00:03:52) setwindow pcb
+\i (00:03:52) zoom in 83.854 31.337
+\i (00:03:52) trapsize 927
+\i (00:03:53) undo 
+\i (00:03:53) trapsize 641
+\i (00:03:53) generaledit 
+\i (00:03:54) roam start
+\i (00:03:54) roam x 80
+\i (00:03:54) roam x 80
+\i (00:03:54) roam x 64
+\i (00:03:54) roam x 32
+\i (00:03:55) roam end
+\i (00:03:55) zoom in 1 
+\i (00:03:55) setwindow pcb
+\i (00:03:55) zoom in 22.814 40.504
+\i (00:03:55) trapsize 320
+\i (00:03:55) zoom out 1 
+\i (00:03:55) setwindow pcb
+\i (00:03:55) zoom out 21.532 45.567
+\i (00:03:55) trapsize 641
+\i (00:03:56) pick grid 23.968 50.055
+\t (00:03:56) last pick:  24.000  50.000
+\i (00:03:59) dimension edit 
+\t (00:03:59) Pick an element or point to dimension ...
+\i (00:03:59) prepopup 25.378 60.952
+\i (00:04:00) prepopup 24.866 60.952
+\i (00:04:01) prepopup 19.353 51.594
+\i (00:04:02) pick grid 17.687 50.312
+\t (00:04:02) last pick:  18.000  50.000
+\t (00:04:02) Pick location for the dimension value.
+\i (00:04:09) pick grid 25.507 55.568
+\t (00:04:09) last pick:  26.000  56.000
+\t (00:04:09) Pick an element or point to dimension ...
+\i (00:04:11) roam start
+\i (00:04:11) roam x -64
+\i (00:04:11) roam y 16
+\i (00:04:11) roam x -80
+\i (00:04:11) roam y 16
+\i (00:04:11) roam x -32
+\i (00:04:11) roam y 16
+\i (00:04:11) roam x -48
+\i (00:04:11) roam y 16
+\i (00:04:11) roam x -16
+\i (00:04:12) roam x -16
+\i (00:04:12) roam y -16
+\i (00:04:12) roam y -16
+\i (00:04:12) roam end
+\i (00:04:14) pick grid -0.389 49.862
+\t (00:04:14) last pick:  0.000  50.000
+\t (00:04:14) Pick an element or point to dimension ...
+\t (00:04:14) First point found ... pick the second point.
+\i (00:04:18) pick grid -1.286 50.247
+\t (00:04:18) last pick:  -1.000  50.000
+\t (00:04:18) Pick location for the dimension value.
+\w (00:04:18) WARNING(SPMHDI-89): Dimension point at (-1.000, 50.000) is not being associated with an object.
+\i (00:04:19) pick grid -1.030 44.607
+\t (00:04:19) last pick:  -1.000  45.000
+\t (00:04:19) Pick an element or point to dimension ...
+\i (00:04:21) undo 
+\i (00:04:21) trapsize 641
+\i (00:04:21) generaledit 
+\i (00:04:23) dimension edit 
+\t (00:04:23) Pick an element or point to dimension ...
+\i (00:04:26) pick grid -1.158 49.991
+\t (00:04:26) last pick:  -1.000  50.000
+\t (00:04:26) First point found ... pick the second point.
+\w (00:04:26) WARNING(SPMHDI-89): Dimension point at (-1.000, 50.000) is not being associated with an object.
+\i (00:04:29) pick grid -1.030 44.991
+\t (00:04:29) last pick:  -1.000  45.000
+\t (00:04:29) Pick location for the dimension value.
+\w (00:04:29) WARNING(SPMHDI-89): Dimension point at (-1.000, 45.000) is not being associated with an object.
+\i (00:04:35) pick grid -2.568 45.119
+\t (00:04:35) last pick:  -3.000  45.000
+\t (00:04:35) Pick an element or point to dimension ...
+\i (00:04:38) pick grid -1.415 5.251
+\t (00:04:38) last pick:  -1.000  5.000
+\t (00:04:38) Pick an element or point to dimension ...
+\t (00:04:38) First point found ... pick the second point.
+\w (00:04:38) WARNING(SPMHDI-89): Dimension point at (-1.000, 5.000) is not being associated with an object.
+\i (00:04:40) pick grid -1.158 0.123
+\t (00:04:40) last pick:  -1.000  0.000
+\t (00:04:40) Pick location for the dimension value.
+\w (00:04:40) WARNING(SPMHDI-89): Dimension point at (-1.000, 0.000) is not being associated with an object.
+\i (00:04:43) pick grid -2.697 1.534
+\t (00:04:43) last pick:  -3.000  2.000
+\t (00:04:43) Pick an element or point to dimension ...
+\i (00:04:45) pick grid -0.261 15.378
+\t (00:04:45) last pick:  0.000  15.000
+\t (00:04:45) Pick an element or point to dimension ...
+\t (00:04:45) Pick location for the dimension value.
+\i (00:04:54) pick grid -5.901 25.506
+\t (00:04:54) last pick:  -6.000  26.000
+\t (00:04:54) Pick an element or point to dimension ...
+\i (00:04:55) zoom in 1 
+\i (00:04:55) setwindow pcb
+\i (00:04:55) zoom in 19.609 25.378
+\i (00:04:55) trapsize 320
+\i (00:05:04) done 
+\i (00:05:04) generaledit 
+\i (00:05:04) zoom fit 
+\i (00:05:04) trapsize 320
+\i (00:05:07) zoom out 1 
+\i (00:05:07) setwindow pcb
+\i (00:05:07) zoom out 31.409 32.115
+\i (00:05:07) trapsize 641
+\i (00:05:07) zoom out 1 
+\i (00:05:07) setwindow pcb
+\i (00:05:07) zoom out 31.026 31.987
+\i (00:05:07) trapsize 1282
+\i (00:05:08) zoom in 1 
+\i (00:05:08) setwindow pcb
+\i (00:05:08) zoom in 48.965 77.937
+\i (00:05:08) trapsize 641
+\i (00:05:08) roam start
+\i (00:05:08) roam x -64
+\i (00:05:08) roam y 80
+\i (00:05:08) roam x -48
+\i (00:05:08) roam y 48
+\i (00:05:08) roam x -16
+\i (00:05:08) roam x -16
+\i (00:05:08) roam y 16
+\i (00:05:08) roam x -16
+\i (00:05:08) roam y 32
+\i (00:05:08) roam x -16
+\i (00:05:08) roam y 48
+\i (00:05:08) roam y 32
+\i (00:05:08) roam y 48
+\i (00:05:08) roam x -16
+\i (00:05:08) roam y 48
+\i (00:05:09) roam end
+\i (00:05:09) save 
+\i (00:05:10) fillin yes 
+\i (00:05:10) generaledit 
+\i (00:05:12) roam start
+\i (00:05:12) roam y -16
+\i (00:05:12) roam x -16
+\i (00:05:12) roam y -32
+\i (00:05:12) roam x -32
+\i (00:05:12) roam y -16
+\i (00:05:12) roam x -64
+\i (00:05:12) roam y -32
+\i (00:05:12) roam end
+\i (00:05:13) roam start
+\i (00:05:13) roam x 64
+\i (00:05:13) roam y 48
+\i (00:05:13) roam end
+\i (00:05:14) zoom in 1 
+\i (00:05:14) setwindow pcb
+\i (00:05:14) zoom in 36.530 35.505
+\i (00:05:14) trapsize 320
+\i (00:05:14) roam start
+\i (00:05:14) roam x -80
+\i (00:05:14) roam y 16
+\i (00:05:14) roam x -64
+\i (00:05:15) roam x -16
+\i (00:05:15) roam y 32
+\i (00:05:15) roam x 32
+\i (00:05:15) roam y 32
+\i (00:05:15) roam x 32
+\i (00:05:15) roam end
+\i (00:05:20) artwork 
+\i (00:05:28) setwindow form.film_control
+\i (00:05:28) FORM film_control filmtree popup Add 'VIA CLASS/BOTTOM' BOTTOM 
+\i (00:05:31) setwindow form.scl_browser
+\i (00:05:31) FORM scl_browser treelist  'BOARD GEOMETRY' 
+\i (00:05:33) FORM scl_browser treelist  OUTLINE 'BOARD GEOMETRY' 
+\i (00:05:36) FORM scl_browser treelist 'MULTISEL YES' OUTLINE 'BOARD GEOMETRY' 
+\i (00:05:39) FORM scl_browser done  
+\i (00:05:43) setwindow form.film_control
+\i (00:05:43) FORM film_control filmtree popup Add 'VIA CLASS/TOP' TOP 
+\i (00:05:46) setwindow form.scl_browser
+\i (00:05:46) FORM scl_browser treelist 'MULTISEL YES' OUTLINE 'BOARD GEOMETRY' 
+\i (00:05:46) FORM scl_browser treelist  OUTLINE 'BOARD GEOMETRY' 
+\i (00:05:47) FORM scl_browser done  
+\i (00:05:52) setwindow form.film_control
+\i (00:05:52) FORM film_control filmtree  TOP 
+\i (00:05:53) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (00:05:53) FORM film_control filmtree  BOTTOM 
+\i (00:05:54) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:05:54) FORM film_control filmtree  TOP 
+\i (00:06:00) FORM film_control undefined_line_width 0.2 
+\i (00:06:00) FORM film_control ok  
+\i (00:06:00) setwindow pcb
+\i (00:06:00) generaledit 
+\i (00:06:03) artwork 
+\i (00:06:06) setwindow form.film_control
+\i (00:06:06) FORM film_control select_all  
+\i (00:06:09) FORM film_control select_all  
+\i (00:06:11) FORM film_control filmtree  TOP 
+\i (00:06:12) FORM film_control filmtree  BOTTOM 
+\i (00:06:15) FORM film_control undefined_line_width 0.2 
+\i (00:06:15) FORM film_control filmtree  TOP 
+\i (00:06:16) FORM film_control filmtree  BOTTOM 
+\i (00:06:20) FORM film_control create  
+\t (00:06:20) Checking db records
+\t (00:06:20)     checking for orphans...
+\t (00:06:20)     Checked 100 percent
+\t (00:06:20) Done dbdoctor.
+\t (00:06:20) Starting Create artwork films...
+\t (00:06:21) Plot generated.
+\i (00:06:22) FORM film_control ok  
+\i (00:06:22) setwindow pcb
+\i (00:06:22) generaledit 
+\i (00:06:52) color192 
+\i (00:06:52) setwindow cvf.dialog
+\i (00:06:52) cvf layer_mode
+\i (00:06:52) setwindow pcb
+\i (00:06:52) generaledit 
+\i (00:06:56) setwindow cvf.dialog
+\i (00:06:56) cvf layer_tree_item 'Stack-Up'
+\i (00:07:00) cvf global_invisible
+\i (00:07:12) cvf layer_tree_item 'Areas'
+\i (00:07:13) cvf layer_tree_item 'Board Geometry'
+\i (00:07:17) cvf layers_visible board_geometry/dimension TRUE
+\i (00:07:20) cvf layers_visible board_geometry/outline TRUE
+\i (00:07:23) cvf layers_visible board_geometry/silkscreen_top TRUE
+\i (00:07:32) cvf layer_tree_item 'Package Geometry'
+\i (00:08:18) cvf layer_tree_item 'Board Geometry'
+\i (00:08:34) cvf layer_tree_item 'Package Geometry'
+\i (00:08:37) cvf layers_visible package_geometry/silkscreen_top TRUE
+\i (00:08:46) cvf layer_tree_item 'Components'
+\i (00:08:47) cvf layers_visible components ref_des/silkscreen_top TRUE
+\i (00:08:52) cvf apply
+\i (00:08:53) cvf okay
+\i (00:08:53) setwindow pcb
+\i (00:08:53) zoom out 1 
+\i (00:08:53) setwindow pcb
+\i (00:08:53) zoom out 15.314 18.583
+\i (00:08:53) trapsize 641
+\i (00:08:54) zoom in 1 
+\i (00:08:54) setwindow pcb
+\i (00:08:54) zoom in 17.751 22.300
+\i (00:08:54) trapsize 320
+\i (00:09:03) artwork 
+\i (00:09:14) setwindow form.film_control
+\i (00:09:14) FORM film_control filmtree popup Add TOP 
+\i (00:09:18) fillin "SST"
+\i (00:09:21) FORM film_control filmtree  SST 
+\i (00:09:23) FORM film_control undefined_line_width 0.2 
+\i (00:09:24) FORM film_control filmtree  TOP 
+\i (00:09:24) FORM film_control filmtree  SST 
+\i (00:09:30) FORM film_control filmtree 'MULTISEL YES' SST 
+\i (00:09:31) FORM film_control create  
+\t (00:09:31) Checking db records
+\t (00:09:31)     checking for orphans...
+\t (00:09:31)     Checked 100 percent
+\t (00:09:31) Done dbdoctor.
+\t (00:09:31) Starting Create artwork films...
+\t (00:09:32) Plot generated.
+\i (00:09:36) FORM film_control ok  
+\i (00:09:36) setwindow pcb
+\i (00:09:36) generaledit 
+\i (00:09:39) setwindow form.vf_vis
+\i (00:09:39) FORM vf_vis colorview_list Film: SST 
+\i (00:09:40) FORM vf_vis colorview_list Film: TOP 
+\i (00:09:41) FORM vf_vis colorview_list Film: SST 
+\i (00:09:42) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:09:43) FORM vf_vis colorview_list Film: SST 
+\i (00:09:43) FORM vf_vis colorview_list Film: TOP 
+\i (00:09:45) FORM vf_vis colorview_list Film: SST 
+\i (00:09:45) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:09:48) setwindow pcb
+\i (00:09:48) zoom out 1 
+\i (00:09:48) setwindow pcb
+\i (00:09:48) zoom out 25.250 38.453
+\i (00:09:48) trapsize 641
+\i (00:09:52) color192 
+\i (00:09:52) setwindow cvf.dialog
+\i (00:09:52) cvf layer_mode
+\i (00:09:52) setwindow pcb
+\i (00:09:52) generaledit 
+\i (00:09:53) setwindow cvf.dialog
+\i (00:09:53) cvf layer_tree_item 'Stack-Up'
+\i (00:09:56) cvf global_invisible
+\i (00:10:01) cvf layers_visible stack-up pin/soldermask_top TRUE
+\i (00:10:02) cvf layers_visible stack-up via/soldermask_top TRUE
+\i (00:10:06) cvf layer_tree_item 'Board Geometry'
+\i (00:10:08) cvf layers_visible board_geometry/outline TRUE
+\i (00:10:12) cvf apply
+\i (00:10:13) cvf okay
+\i (00:10:14) setwindow pcb
+\i (00:10:14) zoom in 1 
+\i (00:10:14) setwindow pcb
+\i (00:10:14) zoom in 22.944 16.917
+\i (00:10:14) trapsize 320
+\i (00:10:15) roam start
+\i (00:10:15) roam y -16
+\i (00:10:15) roam x 16
+\i (00:10:15) roam y -32
+\i (00:10:15) roam x 32
+\i (00:10:15) roam y -16
+\i (00:10:15) roam y -16
+\i (00:10:15) roam y -32
+\i (00:10:16) roam y -16
+\i (00:10:16) roam y -16
+\i (00:10:16) roam y -16
+\i (00:10:16) roam y -16
+\i (00:10:16) roam end
+\i (00:10:17) roam start
+\i (00:10:17) roam x -32
+\i (00:10:17) roam y 16
+\i (00:10:17) roam end
+\i (00:10:18) zoom fit 
+\i (00:10:18) trapsize 320
+\i (00:10:20) artwork 
+\i (00:10:25) setwindow form.film_control
+\i (00:10:25) FORM film_control filmtree popup Add TOP 
+\i (00:10:28) fillin "SMT"
+\i (00:10:30) FORM film_control filmtree  SMT 
+\i (00:10:32) FORM film_control undefined_line_width 0.2 
+\i (00:10:32) FORM film_control filmtree  TOP 
+\i (00:10:33) FORM film_control filmtree  SMT 
+\i (00:10:35) FORM film_control create  
+\w (00:10:35) No film records selected.
+\i (00:10:38) FORM film_control filmtree 'MULTISEL YES' SMT 
+\i (00:10:41) FORM film_control create  
+\t (00:10:41) Checking db records
+\t (00:10:41)     checking for orphans...
+\t (00:10:41)     Checked 100 percent
+\t (00:10:41) Done dbdoctor.
+\t (00:10:41) Starting Create artwork films...
+\t (00:10:42) Plot generated.
+\i (00:10:46) FORM film_control ok  
+\i (00:10:46) setwindow pcb
+\i (00:10:46) generaledit 
+\i (00:10:48) setwindow form.vf_vis
+\i (00:10:48) FORM vf_vis colorview_list Film: SMT 
+\i (00:10:49) FORM vf_vis colorview_list Film: SST 
+\i (00:10:49) FORM vf_vis colorview_list Film: TOP 
+\i (00:10:50) FORM vf_vis colorview_list Film: SST 
+\i (00:10:51) FORM vf_vis colorview_list Film: SMT 
+\i (00:10:51) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:10:53) FORM vf_vis colorview_list Film: SMT 
+\i (00:10:53) FORM vf_vis colorview_list Film: SST 
+\i (00:10:53) FORM vf_vis colorview_list Film: TOP 
+\i (00:10:54) FORM vf_vis colorview_list Film: SST 
+\i (00:10:54) FORM vf_vis colorview_list Film: SMT 
+\i (00:10:54) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:10:54) FORM vf_vis colorview_list --------------- 
+\i (00:10:55) FORM vf_vis colorview_list Last View 
+\i (00:10:56) FORM vf_vis colorview_list --------------- 
+\i (00:10:56) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:11:02) setwindow pcb
+\i (00:11:02) pick grid 40.575 47.754
+\t (00:11:02) last pick:  41.000  48.000
+\i (00:11:02) save 
+\i (00:11:02) fillin yes 
+\i (00:11:02) generaledit 
+\i (00:11:04) color192 
+\i (00:11:04) setwindow cvf.dialog
+\i (00:11:04) cvf layer_mode
+\i (00:11:04) setwindow pcb
+\i (00:11:04) generaledit 
+\i (00:11:07) setwindow cvf.dialog
+\i (00:11:07) cvf layer_tree_item 'Stack-Up'
+\i (00:11:09) cvf global_invisible
+\i (00:11:14) cvf layers_visible stack-up pin/soldermask_bottom TRUE
+\i (00:11:15) cvf layers_visible stack-up via/soldermask_bottom TRUE
+\i (00:11:19) cvf layer_tree_item 'Board Geometry'
+\i (00:11:21) cvf layers_visible board_geometry/outline TRUE
+\i (00:11:52) cvf apply
+\i (00:11:53) cvf okay
+\i (00:11:55) setwindow pcb
+\i (00:11:55) artwork 
+\i (00:11:57) setwindow form.film_control
+\i (00:11:57) FORM film_control filmtree popup Add TOP 
+\i (00:12:00) fillin "SMB"
+\i (00:12:01) FORM film_control filmtree  SMB 
+\i (00:12:06) FORM film_control undefined_line_width 0.2 
+\i (00:12:06) FORM film_control filmtree  TOP 
+\i (00:12:08) FORM film_control filmtree  SMB 
+\i (00:12:09) FORM film_control filmtree 'MULTISEL YES' SMB 
+\i (00:12:10) FORM film_control create  
+\t (00:12:10) Checking db records
+\t (00:12:10)     checking for orphans...
+\t (00:12:10)     Checked 100 percent
+\t (00:12:10) Done dbdoctor.
+\t (00:12:10) Starting Create artwork films...
+\t (00:12:11) Plot generated.
+\i (00:13:01) FORM film_control ok  
+\i (00:13:01) setwindow pcb
+\i (00:13:01) generaledit 
+\i (00:13:04) setwindow form.vf_vis
+\i (00:13:04) FORM vf_vis colorview_list Film: SMB 
+\i (00:13:05) FORM vf_vis colorview_list Film: SMT 
+\i (00:13:05) FORM vf_vis colorview_list Film: SST 
+\i (00:13:06) FORM vf_vis colorview_list Film: TOP 
+\i (00:13:07) FORM vf_vis colorview_list Film: SST 
+\i (00:13:07) FORM vf_vis colorview_list Film: TOP 
+\i (00:13:08) FORM vf_vis colorview_list Film: SST 
+\i (00:13:09) FORM vf_vis colorview_list Film: SMT 
+\i (00:13:12) FORM vf_vis colorview_list Film: SMB 
+\i (00:13:12) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:13:15) FORM vf_vis colorview_list Film: SMB 
+\i (00:13:15) FORM vf_vis colorview_list Film: SMT 
+\i (00:13:16) FORM vf_vis colorview_list Film: SST 
+\i (00:13:16) FORM vf_vis colorview_list Film: TOP 
+\i (00:13:20) setwindow pcb
+\i (00:13:20) color192 
+\i (00:13:20) setwindow cvf.dialog
+\i (00:13:20) cvf layer_mode
+\i (00:13:20) setwindow pcb
+\i (00:13:20) generaledit 
+\i (00:13:23) setwindow cvf.dialog
+\i (00:13:23) cvf layer_tree_item 'Conductor' 'Stack-Up'
+\i (00:13:23) cvf layer_tree_item 'Stack-Up'
+\i (00:13:25) cvf global_invisible
+\i (00:13:32) cvf layer_tree_item 'Board Geometry'
+\i (00:13:34) cvf layers_visible board_geometry/outline TRUE
+\i (00:13:36) cvf layer_tree_item 'Manufacturing'
+\i (00:13:41) cvf layers_visible manufacturing/ncdrill_figure TRUE
+\i (00:13:42) cvf layers_visible manufacturing/ncdrill_legend TRUE
+\i (00:13:42) cvf layers_visible manufacturing/nclegend-1-2 TRUE
+\i (00:13:44) cvf apply
+\i (00:13:45) cvf okay
+\i (00:13:48) setwindow pcb
+\i (00:13:48) artwork 
+\i (00:13:51) setwindow form.film_control
+\i (00:13:51) FORM film_control filmtree popup Add TOP 
+\i (00:13:54) fillin "DD"
+\i (00:13:55) FORM film_control filmtree  DD 
+\i (00:13:59) FORM film_control undefined_line_width 0.2 
+\i (00:13:59) FORM film_control filmtree  TOP 
+\i (00:14:00) FORM film_control filmtree  SMT 
+\i (00:14:01) FORM film_control filmtree  SMB 
+\i (00:14:01) FORM film_control filmtree  BOTTOM 
+\i (00:14:02) FORM film_control filmtree  DD 
+\i (00:14:03) FORM film_control filmtree 'MULTISEL YES' DD 
+\i (00:14:06) FORM film_control create  
+\t (00:14:06) Checking db records
+\t (00:14:06)     checking for orphans...
+\t (00:14:06)     Checked 100 percent
+\t (00:14:06) Done dbdoctor.
+\t (00:14:06) Starting Create artwork films...
+\t (00:14:07) Plot generated.
+\i (00:14:12) FORM film_control ok  
+\i (00:14:12) setwindow pcb
+\i (00:14:12) generaledit 
+\i (00:14:13) setwindow form.vf_vis
+\i (00:14:13) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:13) FORM vf_vis colorview_list Film: SST 
+\i (00:14:16) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:16) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:16) FORM vf_vis colorview_list Film: DD 
+\i (00:14:17) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:17) FORM vf_vis colorview_list --------------- 
+\i (00:14:18) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:18) FORM vf_vis colorview_list Film: DD 
+\i (00:14:19) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:19) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:20) FORM vf_vis colorview_list Film: SST 
+\i (00:14:20) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:22) FORM vf_vis colorview_list Film: SST 
+\i (00:14:23) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:23) FORM vf_vis colorview_list Film: SST 
+\i (00:14:24) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:24) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:24) FORM vf_vis colorview_list Film: DD 
+\i (00:14:25) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:26) FORM vf_vis colorview_list Film: DD 
+\i (00:14:26) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:26) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:26) FORM vf_vis colorview_list Film: SST 
+\i (00:14:26) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:26) FORM vf_vis colorview_list Film: SST 
+\i (00:14:26) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:26) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:26) FORM vf_vis colorview_list Film: DD 
+\i (00:14:26) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:26) FORM vf_vis colorview_list --------------- 
+\i (00:14:27) FORM vf_vis colorview_list Last View 
+\i (00:14:27) FORM vf_vis colorview_list --------------- 
+\i (00:14:27) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:27) FORM vf_vis colorview_list Film: DD 
+\i (00:14:27) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:27) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:27) FORM vf_vis colorview_list Film: SST 
+\i (00:14:27) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:27) FORM vf_vis colorview_list Film: SST 
+\i (00:14:27) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:27) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:27) FORM vf_vis colorview_list Film: DD 
+\i (00:14:27) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:27) FORM vf_vis colorview_list --------------- 
+\i (00:14:27) FORM vf_vis colorview_list Last View 
+\i (00:14:27) FORM vf_vis colorview_list --------------- 
+\i (00:14:27) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:27) FORM vf_vis colorview_list Film: DD 
+\i (00:14:27) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:27) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:27) FORM vf_vis colorview_list Film: SST 
+\i (00:14:27) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:28) FORM vf_vis colorview_list Film: SST 
+\i (00:14:28) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:28) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:28) FORM vf_vis colorview_list Film: DD 
+\i (00:14:28) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:28) FORM vf_vis colorview_list --------------- 
+\i (00:14:28) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:28) FORM vf_vis colorview_list Film: DD 
+\i (00:14:28) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:28) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:28) FORM vf_vis colorview_list Film: SST 
+\i (00:14:28) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:28) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:28) FORM vf_vis colorview_list Film: DD 
+\i (00:14:28) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:28) FORM vf_vis colorview_list --------------- 
+\i (00:14:28) FORM vf_vis colorview_list Last View 
+\i (00:14:28) FORM vf_vis colorview_list --------------- 
+\i (00:14:28) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:28) FORM vf_vis colorview_list Film: DD 
+\i (00:14:28) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:28) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:28) FORM vf_vis colorview_list Film: SST 
+\i (00:14:28) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:28) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:28) FORM vf_vis colorview_list Film: DD 
+\i (00:14:28) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:28) FORM vf_vis colorview_list --------------- 
+\i (00:14:28) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:28) FORM vf_vis colorview_list Film: DD 
+\i (00:14:28) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:28) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:28) FORM vf_vis colorview_list Film: SST 
+\i (00:14:28) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:28) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:28) FORM vf_vis colorview_list Film: DD 
+\i (00:14:29) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:29) FORM vf_vis colorview_list Film: DD 
+\i (00:14:29) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:29) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:29) FORM vf_vis colorview_list Film: SST 
+\i (00:14:29) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:29) FORM vf_vis colorview_list Film: SST 
+\i (00:14:29) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:29) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:29) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:29) FORM vf_vis colorview_list Film: SST 
+\i (00:14:29) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:29) FORM vf_vis colorview_list Film: SST 
+\i (00:14:29) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:29) FORM vf_vis colorview_list Film: SST 
+\i (00:14:29) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:29) FORM vf_vis colorview_list Film: SST 
+\i (00:14:29) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:29) FORM vf_vis colorview_list Film: SST 
+\i (00:14:29) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:29) FORM vf_vis colorview_list Film: SST 
+\i (00:14:30) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:30) FORM vf_vis colorview_list Film: SST 
+\i (00:14:30) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:30) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:30) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:30) FORM vf_vis colorview_list Film: SST 
+\i (00:14:30) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:30) FORM vf_vis colorview_list Film: SST 
+\i (00:14:30) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:30) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:30) FORM vf_vis colorview_list Film: DD 
+\i (00:14:30) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:30) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:30) FORM vf_vis colorview_list Film: SST 
+\i (00:14:30) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:30) FORM vf_vis colorview_list Film: SST 
+\i (00:14:30) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:30) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:30) FORM vf_vis colorview_list Film: DD 
+\i (00:14:30) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:30) FORM vf_vis colorview_list --------------- 
+\i (00:14:30) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:30) FORM vf_vis colorview_list Film: DD 
+\i (00:14:30) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:30) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:30) FORM vf_vis colorview_list Film: SST 
+\i (00:14:30) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:30) FORM vf_vis colorview_list Film: SST 
+\i (00:14:30) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:30) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:30) FORM vf_vis colorview_list Film: DD 
+\i (00:14:30) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:30) FORM vf_vis colorview_list --------------- 
+\i (00:14:30) FORM vf_vis colorview_list Last View 
+\i (00:14:30) FORM vf_vis colorview_list --------------- 
+\i (00:14:30) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:31) FORM vf_vis colorview_list Film: DD 
+\i (00:14:31) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:31) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:31) FORM vf_vis colorview_list Film: SST 
+\i (00:14:31) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:31) FORM vf_vis colorview_list Film: SST 
+\i (00:14:31) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:31) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:31) FORM vf_vis colorview_list Film: DD 
+\i (00:14:31) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:31) FORM vf_vis colorview_list --------------- 
+\i (00:14:31) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:31) FORM vf_vis colorview_list Film: DD 
+\i (00:14:31) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:31) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:31) FORM vf_vis colorview_list Film: SST 
+\i (00:14:31) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:31) FORM vf_vis colorview_list Film: SST 
+\i (00:14:31) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:31) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:31) FORM vf_vis colorview_list Film: DD 
+\i (00:14:31) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:31) FORM vf_vis colorview_list --------------- 
+\i (00:14:31) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:31) FORM vf_vis colorview_list Film: DD 
+\i (00:14:31) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:31) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:31) FORM vf_vis colorview_list Film: SST 
+\i (00:14:31) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:31) FORM vf_vis colorview_list Film: SST 
+\i (00:14:31) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:31) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:31) FORM vf_vis colorview_list Film: DD 
+\i (00:14:31) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:31) FORM vf_vis colorview_list --------------- 
+\i (00:14:31) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:31) FORM vf_vis colorview_list Film: DD 
+\i (00:14:31) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:31) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:31) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:31) FORM vf_vis colorview_list Film: DD 
+\i (00:14:31) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:31) FORM vf_vis colorview_list --------------- 
+\i (00:14:31) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:32) FORM vf_vis colorview_list Film: DD 
+\i (00:14:32) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:32) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:32) FORM vf_vis colorview_list Film: SST 
+\i (00:14:32) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:32) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:32) FORM vf_vis colorview_list Film: DD 
+\i (00:14:32) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:32) FORM vf_vis colorview_list --------------- 
+\i (00:14:32) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:32) FORM vf_vis colorview_list Film: DD 
+\i (00:14:32) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:32) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:32) FORM vf_vis colorview_list Film: SST 
+\i (00:14:32) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:32) FORM vf_vis colorview_list Film: SST 
+\i (00:14:32) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:32) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:32) FORM vf_vis colorview_list Film: DD 
+\i (00:14:32) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:32) FORM vf_vis colorview_list --------------- 
+\i (00:14:32) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:32) FORM vf_vis colorview_list Film: DD 
+\i (00:14:32) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:32) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:32) FORM vf_vis colorview_list Film: SST 
+\i (00:14:32) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:32) FORM vf_vis colorview_list Film: SST 
+\i (00:14:32) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:32) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:32) FORM vf_vis colorview_list Film: DD 
+\i (00:14:32) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:32) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:32) FORM vf_vis colorview_list Film: SST 
+\i (00:14:32) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:32) FORM vf_vis colorview_list Film: SST 
+\i (00:14:32) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:32) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:32) FORM vf_vis colorview_list Film: DD 
+\i (00:14:32) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:32) FORM vf_vis colorview_list Film: DD 
+\i (00:14:32) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:33) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:33) FORM vf_vis colorview_list Film: SST 
+\i (00:14:33) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:33) FORM vf_vis colorview_list Film: SST 
+\i (00:14:33) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:33) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:33) FORM vf_vis colorview_list Film: DD 
+\i (00:14:33) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:33) FORM vf_vis colorview_list Film: DD 
+\i (00:14:33) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:33) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:33) FORM vf_vis colorview_list Film: SST 
+\i (00:14:33) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:33) FORM vf_vis colorview_list Film: SST 
+\i (00:14:33) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:33) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:33) FORM vf_vis colorview_list Film: DD 
+\i (00:14:33) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:33) FORM vf_vis colorview_list Film: DD 
+\i (00:14:33) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:33) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:33) FORM vf_vis colorview_list Film: SST 
+\i (00:14:33) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:33) FORM vf_vis colorview_list Film: SST 
+\i (00:14:33) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:33) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:33) FORM vf_vis colorview_list Film: DD 
+\i (00:14:33) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:33) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:33) FORM vf_vis colorview_list Film: SST 
+\i (00:14:33) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:33) FORM vf_vis colorview_list Film: SST 
+\i (00:14:33) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:33) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:33) FORM vf_vis colorview_list Film: DD 
+\i (00:14:33) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:34) FORM vf_vis colorview_list Film: DD 
+\i (00:14:34) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:34) FORM vf_vis colorview_list Film: DD 
+\i (00:14:34) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:34) FORM vf_vis colorview_list --------------- 
+\i (00:14:34) FORM vf_vis colorview_list Last View 
+\i (00:14:34) FORM vf_vis colorview_list --------------- 
+\i (00:14:34) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:34) FORM vf_vis colorview_list Film: DD 
+\i (00:14:34) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:34) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:34) FORM vf_vis colorview_list Film: SST 
+\i (00:14:34) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:34) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:34) FORM vf_vis colorview_list Film: DD 
+\i (00:14:34) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:34) FORM vf_vis colorview_list --------------- 
+\i (00:14:34) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:34) FORM vf_vis colorview_list Film: DD 
+\i (00:14:34) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:34) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:34) FORM vf_vis colorview_list Film: SST 
+\i (00:14:34) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:34) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:34) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:34) FORM vf_vis colorview_list Film: SST 
+\i (00:14:34) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:34) FORM vf_vis colorview_list Film: SST 
+\i (00:14:34) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:34) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:35) FORM vf_vis colorview_list Film: DD 
+\i (00:14:35) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:35) FORM vf_vis colorview_list --------------- 
+\i (00:14:35) FORM vf_vis colorview_list Last View 
+\i (00:14:35) FORM vf_vis colorview_list --------------- 
+\i (00:14:35) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:35) FORM vf_vis colorview_list Film: DD 
+\i (00:14:35) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:35) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:35) FORM vf_vis colorview_list Film: SST 
+\i (00:14:35) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:35) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:35) FORM vf_vis colorview_list Film: DD 
+\i (00:14:35) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:35) FORM vf_vis colorview_list --------------- 
+\i (00:14:35) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:35) FORM vf_vis colorview_list Film: DD 
+\i (00:14:35) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:35) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:35) FORM vf_vis colorview_list Film: SST 
+\i (00:14:35) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:35) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:35) FORM vf_vis colorview_list Film: DD 
+\i (00:14:35) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:35) FORM vf_vis colorview_list --------------- 
+\i (00:14:35) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:35) FORM vf_vis colorview_list Film: DD 
+\i (00:14:35) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:35) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:35) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:35) FORM vf_vis colorview_list Film: DD 
+\i (00:14:35) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:35) FORM vf_vis colorview_list --------------- 
+\i (00:14:35) FORM vf_vis colorview_list Last View 
+\i (00:14:36) FORM vf_vis colorview_list --------------- 
+\i (00:14:36) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:14:36) FORM vf_vis colorview_list Film: DD 
+\i (00:14:36) FORM vf_vis colorview_list Film: SMB 
+\i (00:14:36) FORM vf_vis colorview_list Film: SMT 
+\i (00:14:36) FORM vf_vis colorview_list Film: SST 
+\i (00:14:36) FORM vf_vis colorview_list Film: TOP 
+\i (00:14:40) setwindow pcb
+\i (00:14:40) artwork 
+\i (00:14:42) setwindow form.film_control
+\i (00:14:42) FORM film_control select_all  
+\i (00:14:44) FORM film_control create  
+\t (00:14:44) Checking db records
+\t (00:14:44)     checking for orphans...
+\t (00:14:44)     Checked 100 percent
+\t (00:14:44) Done dbdoctor.
+\t (00:14:44) Starting Create artwork films...
+\t (00:14:46) Plot generated.
+\i (00:14:48) FORM film_control ok  
+\i (00:14:48) setwindow pcb
+\i (00:14:48) generaledit 
+\i (00:14:50) pick grid 45.382 38.716
+\t (00:14:50) last pick:  45.000  39.000
+\i (00:14:50) save 
+\i (00:14:51) fillin yes 
+\i (00:14:51) generaledit 
+\i (00:14:52) exit 
+\t (00:14:53)     Journal end - Mon May 24 12:16:50 2021

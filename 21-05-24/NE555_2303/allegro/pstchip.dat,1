@@ -1,0 +1,157 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 16.6.0 d001May-17-2021 at 11:46:01}
+primitive 'CAP POL_CAP196_10UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP POL';
+    JEDEC_TYPE='CAP196';
+    VALUE='10uF';
+  end_body;
+end_primitive;
+primitive 'CAP NP_CAP300_0.1UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='CAP300';
+    VALUE='0.1uF';
+  end_body;
+end_primitive;
+primitive 'LED_1_CAP196_LED';
+  pin
+    'ANODE':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'CATHODE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LED_1';
+    JEDEC_TYPE='CAP196';
+    VALUE='LED';
+  end_body;
+end_primitive;
+primitive 'CON2_JUMPER2_CON2';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON2';
+    JEDEC_TYPE='JUMPER2';
+    VALUE='CON2';
+  end_body;
+end_primitive;
+primitive 'RESISTOR_RES400_560';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR';
+    JEDEC_TYPE='RES400';
+    VALUE='560';
+  end_body;
+end_primitive;
+primitive 'RESISTOR_RES400_1K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR';
+    JEDEC_TYPE='RES400';
+    VALUE='1k';
+  end_body;
+end_primitive;
+primitive 'RESISTOR VAR_RESADJ_100K';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'B':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'WIPER':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR VAR';
+    JEDEC_TYPE='RESADJ';
+    VALUE='100k';
+  end_body;
+end_primitive;
+primitive 'RESISTOR_RES400_220';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR';
+    JEDEC_TYPE='RES400';
+    VALUE='220';
+  end_body;
+end_primitive;
+primitive 'NE555_0_DIP8_3_NE555';
+  pin
+    'OUT':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(*)';
+    'RST':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(*)';
+    'VCC':
+      PIN_NUMBER='(8)';
+      PINUSE='POWER';
+    'CV':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(*)';
+    'TRG':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+    'THR':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(*)';
+    'DSCHG':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    POWER_PINS='(GND:1)';
+    PART_NAME='NE555_0';
+    JEDEC_TYPE='DIP8_3';
+    VALUE='NE555';
+  end_body;
+end_primitive;
+END.

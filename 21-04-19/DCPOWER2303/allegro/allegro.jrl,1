@@ -1,0 +1,860 @@
+\t (00:00:04) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:04)     Journal start - Mon Apr 19 10:47:03 2021
+\t (00:00:04)         Host=CAD20 User=user Pid=9804 CPUs=8
+\t (00:00:04) 
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Database opened: D:/DCPOWER2303/allegro/DCPOWER2303.brd
+\i (00:00:07) trapsize 4371
+\i (00:00:07) trapsize 4291
+\i (00:00:07) trapsize 4385
+\i (00:00:07) trapsize 3802
+\i (00:00:07) trapsize 3802
+\i (00:00:07) generaledit 
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 47.2528 23.6810
+\i (00:00:08) trapsize 7604
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 94.1684 23.6811
+\i (00:00:08) trapsize 13174
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 8.7578 10.6023
+\i (00:00:09) trapsize 6587
+\i (00:00:10) zoom fit 
+\i (00:00:10) trapsize 1901
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 17.4903 11.7114
+\i (00:00:11) trapsize 3802
+\i (00:00:14) pick grid 0.2295 28.5918
+\t (00:00:14) last pick:  0.0000  27.9400
+\i (00:00:25) prmed 
+\i (00:00:29) setwindow form.prmedit
+\i (00:00:29) FORM prmedit design  
+\i (00:00:31) FORM prmedit text  
+\i (00:00:32) FORM prmedit shapes  
+\i (00:00:32) FORM prmedit text  
+\i (00:00:35) FORM prmedit cancel  
+\i (00:00:35) setwindow pcb
+\i (00:00:35) generaledit 
+\i (00:00:37) place manual 
+\t (00:00:37) Selected item not valid for current operation, ignored: Rectangle "Board Geometry/Outline"
+\t (00:00:37) No valid items selected for the current operation, exiting.
+\i (00:00:37) generaledit 
+\i (00:00:40) place manual 
+\t (00:00:40) Selected item not valid for current operation, ignored: Rectangle "Board Geometry/Outline"
+\t (00:00:40) No valid items selected for the current operation, exiting.
+\i (00:00:40) generaledit 
+\i (00:00:41) place manual 
+\t (00:00:41) Selected item not valid for current operation, ignored: Rectangle "Board Geometry/Outline"
+\t (00:00:41) No valid items selected for the current operation, exiting.
+\i (00:00:41) generaledit 
+\i (00:00:42) pick grid -4.1807 35.4352
+\t (00:00:42) last pick:  -5.0800  35.5600
+\i (00:00:43) place manual 
+\i (00:00:44) setwindow form.plc_manual
+\i (00:00:44) FORM plc_manual advanced_settings  
+\i (00:00:45) FORM plc_manual library YES 
+\i (00:00:45) FORM plc_manual placement_list  
+\i (00:00:47) FORM plc_manual categories Mechanical symbols 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) pick grid 43.1151 42.3547
+\t (00:00:50) last pick:  43.1800  43.1800
+\i (00:00:56) pick grid 37.2601 35.3592
+\t (00:00:56) last pick:  38.1000  35.5600
+\i (00:00:57) prmed 
+\i (00:01:00) setwindow form.prmedit
+\i (00:01:00) FORM prmedit design  
+\i (00:01:01) FORM prmedit display  
+\i (00:01:08) FORM prmedit design  
+\i (00:01:11) FORM prmedit text  
+\i (00:01:13) FORM prmedit text_setup_button  
+\i (00:01:19) setwindow form.textblock
+\i (00:01:19) FORM textblock cancel  
+\i (00:01:20) setwindow form.prmedit
+\i (00:01:20) FORM prmedit shapes  
+\i (00:01:22) FORM prmedit dynshp_button  
+\i (00:01:27) setwindow form.dyn_xshape
+\i (00:01:27) FORM dyn_xshape thermal_relief_connects  
+\i (00:01:30) FORM dyn_xshape cancel  
+\i (00:01:34) setwindow form.prmedit
+\i (00:01:34) FORM prmedit mfg_applications  
+\i (00:01:35) FORM prmedit draft_button  
+\i (00:01:36) setwindow form.draft_parms
+\i (00:01:36) FORM draft_parms cancel  
+\i (00:01:37) setwindow form.prmedit
+\i (00:01:37) FORM prmedit cancel  
+\i (00:01:37) setwindow pcb
+\i (00:01:37) generaledit 
+\i (00:01:38) place manual 
+\i (00:01:42) pick grid 66.1546 21.1400
+\t (00:01:42) last pick:  66.0400  20.3200
+\i (00:01:50) setwindow form.plc_manual
+\i (00:01:50) FORM plc_manual tree  'Mechanical symbols' 
+\i (00:01:50) FORM plc_manual tree  MTG156 'Mechanical symbols' 
+\i (00:01:52) FORM plc_manual tree 'MULTISEL YES' MTG156 'Mechanical symbols' 
+\w (00:01:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:07) FORM plc_manual cancel  
+\i (00:02:07) setwindow pcb
+\i (00:02:07) generaledit 
+\i (00:02:11) define grid 
+\t (00:02:12) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:02:12) generaledit 
+\i (00:02:13) setwindow form.grid
+\i (00:02:13) FORM grid non_etch non_etch_x_grids 5 
+\i (00:02:13) FORM grid non_etch non_etch_y_grids 5 
+\i (00:02:14) FORM grid all_etch all_etch_x_grids 5 
+\i (00:02:15) FORM grid all_etch all_etch_y_grids 5 
+\i (00:02:17) FORM grid done  
+\i (00:02:19) setwindow pcb
+\i (00:02:19) pick grid 69.0441 13.6883
+\t (00:02:19) last pick:  70.0000  15.0000
+\i (00:02:22) place manual 
+\i (00:02:24) setwindow form.plc_manual
+\i (00:02:24) FORM plc_manual tree 'MULTISEL YES' MTG156 'Mechanical symbols' 
+\w (00:02:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:24) FORM plc_manual tree  MTG156 'Mechanical symbols' 
+\i (00:03:49) setwindow pcb
+\i (00:03:49) pick grid 57.2582 25.0180
+\t (00:03:49) last pick:  55.0000  25.0000
+\i (00:03:53) setwindow form.plc_manual
+\i (00:03:53) FORM plc_manual tree 'MULTISEL YES' MTG156 'Mechanical symbols' 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) pick grid 55.2812 7.4532
+\t (00:03:54) last pick:  55.0000  5.0000
+\i (00:03:55) setwindow form.plc_manual
+\i (00:03:55) FORM plc_manual tree 'MULTISEL YES' MTG156 'Mechanical symbols' 
+\i (00:03:57) setwindow pcb
+\i (00:03:57) pick grid 7.3771 5.4001
+\t (00:03:57) last pick:  5.0000  5.0000
+\i (00:03:58) undo 
+\i (00:03:58) trapsize 3802
+\i (00:03:58) generaledit 
+\i (00:03:59) undo 
+\i (00:03:59) trapsize 3802
+\i (00:03:59) generaledit 
+\i (00:04:00) place manual 
+\i (00:04:04) setwindow form.plc_manual
+\i (00:04:04) FORM plc_manual tree  'Mechanical symbols' 
+\i (00:04:09) setwindow pcb
+\i (00:04:09) pick grid 55.6614 25.5503
+\t (00:04:09) last pick:  55.0000  25.0000
+\t (00:04:09) last pick:  55.0000  25.0000
+\i (00:04:10) pick grid 7.4532 27.3752
+\t (00:04:10) last pick:  5.0000  25.0000
+\i (00:04:12) pick grid 54.9770 24.8659
+\t (00:04:12) last pick:  55.0000  25.0000
+\i (00:15:15) zoom out 1 
+\i (00:15:15) setwindow pcb
+\i (00:15:15) zoom out -10.7960 19.2391
+\i (00:15:15) trapsize 7604
+\i (00:15:15) zoom out 1 
+\i (00:15:15) setwindow pcb
+\i (00:15:15) zoom out -10.4652 20.7598
+\i (00:15:15) trapsize 13174
+\i (00:15:15) zoom out 1 
+\i (00:15:15) setwindow pcb
+\i (00:15:15) zoom out 23.2497 55.1317
+\i (00:15:15) trapsize 13174
+\i (00:15:16) zoom in 1 
+\i (00:15:16) setwindow pcb
+\i (00:15:16) zoom in 7.9674 53.2873
+\i (00:15:16) trapsize 6587
+\i (00:15:17) zoom in 1 
+\i (00:15:17) setwindow pcb
+\i (00:15:17) zoom in 2.0389 23.2497
+\i (00:15:17) trapsize 3294
+\i (00:16:04) zoom out 1 
+\i (00:16:04) setwindow pcb
+\i (00:16:04) zoom out 33.1964 37.4122
+\i (00:16:04) trapsize 6587
+\i (00:16:04) zoom out 1 
+\i (00:16:04) setwindow pcb
+\i (00:16:04) zoom out 35.3701 37.4122
+\i (00:16:04) trapsize 13174
+\i (00:16:04) zoom out 1 
+\i (00:16:04) setwindow pcb
+\i (00:16:04) zoom out 120.7403 49.8620
+\i (00:16:04) trapsize 13174
+\i (00:16:05) zoom fit 
+\i (00:16:05) trapsize 1901
+\i (00:16:07) zoom out 1 
+\i (00:16:07) setwindow pcb
+\i (00:16:07) zoom out 30.1126 15.1711
+\i (00:16:07) trapsize 3802
+\i (00:16:17) setwindow form.plc_manual
+\i (00:16:17) FORM plc_manual tree 'MULTISEL YES' MTG156 'Mechanical symbols' 
+\i (00:16:17) FORM plc_manual tree  MTG156 'Mechanical symbols' 
+\i (00:16:17) setwindow pcb
+\i (00:16:17) pick grid 57.2582 24.2957
+\t (00:16:17) last pick:  55.0000  25.0000
+\i (00:16:19) setwindow form.plc_manual
+\i (00:16:19) FORM plc_manual tree 'MULTISEL YES' MTG156 'Mechanical symbols' 
+\i (00:16:19) setwindow pcb
+\i (00:16:19) pick grid 56.8020 7.4912
+\t (00:16:19) last pick:  55.0000  5.0000
+\i (00:16:20) setwindow form.plc_manual
+\i (00:16:20) FORM plc_manual tree 'MULTISEL YES' MTG156 'Mechanical symbols' 
+\i (00:16:21) setwindow pcb
+\i (00:16:21) pick grid 2.5868 3.5372
+\t (00:16:21) last pick:  5.0000  5.0000
+\i (00:16:22) setwindow form.plc_manual
+\i (00:16:22) FORM plc_manual done  
+\i (00:16:22) setwindow pcb
+\i (00:16:22) generaledit 
+\i (00:16:25) pick grid 64.7099 7.3391
+\t (00:16:25) last pick:  65.0000  5.0000
+\i (00:16:50) zoom out 1 
+\i (00:16:50) setwindow pcb
+\i (00:16:50) zoom out 5.6283 15.0950
+\i (00:16:50) trapsize 7604
+\i (00:16:50) zoom out 1 
+\i (00:16:50) setwindow pcb
+\i (00:16:50) zoom out 22.5404 15.2472
+\i (00:16:50) trapsize 13174
+\i (00:16:52) zoom fit 
+\i (00:16:52) trapsize 1901
+\i (00:16:54) zoom out 1 
+\i (00:16:54) setwindow pcb
+\i (00:16:54) zoom out 41.4803 18.6688
+\i (00:16:54) trapsize 3802
+\i (00:17:06) trapsize 4469
+\i (00:17:13) trapsize 4385
+\i (00:17:24) prepopup 3.7347 24.6168
+\i (00:17:29) pick grid 42.9366 18.2147
+\t (00:17:29) last pick:  45.0000  20.0000
+\i (00:17:30) pick grid 68.1941 21.0211
+\t (00:17:30) last pick:  70.0000  20.0000
+\i (00:17:30) pick grid dbl 68.1941 21.0211
+\t (00:17:30) last pick:  70.0000  20.0000
+\i (00:17:59) zoom in 1 
+\i (00:17:59) setwindow pcb
+\i (00:17:59) zoom in 54.7761 26.0200
+\i (00:17:59) trapsize 2192
+\i (00:17:59) zoom in 1 
+\i (00:17:59) setwindow pcb
+\i (00:17:59) zoom in 55.0830 26.4147
+\i (00:17:59) trapsize 1096
+\i (00:18:00) zoom in 1 
+\i (00:18:00) setwindow pcb
+\i (00:18:00) zoom in 58.4156 25.4281
+\i (00:18:00) trapsize 548
+\i (00:18:00) zoom in 1 
+\i (00:18:00) setwindow pcb
+\i (00:18:00) zoom in 58.4375 25.3294
+\i (00:18:00) trapsize 274
+\i (00:18:01) zoom in 1 
+\i (00:18:01) setwindow pcb
+\i (00:18:01) zoom in 57.5167 25.2746
+\i (00:18:01) trapsize 137
+\i (00:18:02) zoom in 1 
+\i (00:18:02) setwindow pcb
+\i (00:18:02) zoom in 57.5167 25.3404
+\i (00:18:02) trapsize 69
+\i (00:18:02) zoom in 1 
+\i (00:18:02) setwindow pcb
+\i (00:18:02) zoom in 57.5139 25.3486
+\i (00:18:02) trapsize 34
+\i (00:18:02) zoom in 1 
+\i (00:18:02) setwindow pcb
+\i (00:18:02) zoom in 57.5139 25.3486
+\i (00:18:02) trapsize 17
+\i (00:18:03) zoom in 1 
+\i (00:18:03) setwindow pcb
+\i (00:18:03) zoom in 57.4375 25.3524
+\i (00:18:03) trapsize 9
+\i (00:18:03) zoom in 1 
+\i (00:18:03) setwindow pcb
+\i (00:18:03) zoom in 57.4375 25.3525
+\i (00:18:03) trapsize 4
+\i (00:18:03) zoom in 1 
+\i (00:18:03) setwindow pcb
+\i (00:18:03) zoom in 57.4461 25.3516
+\i (00:18:03) trapsize 2
+\i (00:18:04) zoom in 1 
+\i (00:18:04) setwindow pcb
+\i (00:18:04) zoom in 57.4655 25.3504
+\i (00:18:04) trapsize 1
+\i (00:18:04) zoom in 1 
+\i (00:18:04) setwindow pcb
+\i (00:18:04) zoom in 57.4661 25.3508
+\i (00:18:04) trapsize 1
+\i (00:18:04) zoom in 1 
+\i (00:18:04) setwindow pcb
+\i (00:18:04) zoom in 57.4660 25.3508
+\i (00:18:04) trapsize 1
+\i (00:18:04) zoom in 1 
+\i (00:18:04) setwindow pcb
+\i (00:18:04) zoom in 57.4660 25.3508
+\i (00:18:04) trapsize 1
+\i (00:18:05) zoom out 1 
+\i (00:18:05) setwindow pcb
+\i (00:18:05) zoom out 57.4660 25.3508
+\i (00:18:05) trapsize 1
+\i (00:18:05) zoom out 1 
+\i (00:18:05) setwindow pcb
+\i (00:18:05) zoom out 57.4661 25.3509
+\i (00:18:05) trapsize 1
+\i (00:18:05) zoom out 1 
+\i (00:18:05) setwindow pcb
+\i (00:18:05) zoom out 57.4660 25.3510
+\i (00:18:05) trapsize 1
+\i (00:18:05) zoom out 1 
+\i (00:18:05) setwindow pcb
+\i (00:18:05) zoom out 57.4660 25.3509
+\i (00:18:05) trapsize 2
+\i (00:18:05) zoom out 1 
+\i (00:18:05) setwindow pcb
+\i (00:18:05) zoom out 57.4660 25.3510
+\i (00:18:05) trapsize 4
+\i (00:18:05) zoom out 1 
+\i (00:18:05) setwindow pcb
+\i (00:18:05) zoom out 57.4660 25.3509
+\i (00:18:05) trapsize 8
+\i (00:18:05) zoom out 1 
+\i (00:18:05) setwindow pcb
+\i (00:18:05) zoom out 57.4662 25.3510
+\i (00:18:05) trapsize 17
+\i (00:18:05) zoom out 1 
+\i (00:18:05) setwindow pcb
+\i (00:18:05) zoom out 57.4661 25.3510
+\i (00:18:05) trapsize 34
+\i (00:18:05) zoom out 1 
+\i (00:18:05) setwindow pcb
+\i (00:18:05) zoom out 57.4661 25.3509
+\i (00:18:05) trapsize 68
+\i (00:18:05) zoom out 1 
+\i (00:18:05) setwindow pcb
+\i (00:18:05) zoom out 57.4662 25.3510
+\i (00:18:05) trapsize 136
+\i (00:18:05) zoom out 1 
+\i (00:18:05) setwindow pcb
+\i (00:18:05) zoom out 57.4661 25.3537
+\i (00:18:05) trapsize 271
+\i (00:18:05) zoom out 1 
+\i (00:18:05) setwindow pcb
+\i (00:18:05) zoom out 57.4661 25.3646
+\i (00:18:05) trapsize 543
+\i (00:18:05) zoom out 1 
+\i (00:18:05) setwindow pcb
+\i (00:18:05) zoom out 57.4662 25.3863
+\i (00:18:05) trapsize 1086
+\i (00:18:06) zoom out 1 
+\i (00:18:06) setwindow pcb
+\i (00:18:06) zoom out 57.4662 25.4081
+\i (00:18:06) trapsize 2171
+\i (00:18:06) zoom out 1 
+\i (00:18:06) setwindow pcb
+\i (00:18:06) zoom out 57.4661 25.4949
+\i (00:18:06) trapsize 4343
+\i (00:18:08) zoom in 1 
+\i (00:18:08) setwindow pcb
+\i (00:18:08) zoom in 30.0812 14.9853
+\i (00:18:08) trapsize 2171
+\i (00:18:08) zoom in 1 
+\i (00:18:08) setwindow pcb
+\i (00:18:08) zoom in 30.0812 14.9853
+\i (00:18:08) trapsize 1086
+\i (00:18:08) zoom in 1 
+\i (00:18:08) setwindow pcb
+\i (00:18:08) zoom in 30.0812 14.9853
+\i (00:18:08) trapsize 543
+\i (00:18:08) zoom in 1 
+\i (00:18:08) setwindow pcb
+\i (00:18:08) zoom in 30.0812 14.9853
+\i (00:18:08) trapsize 271
+\i (00:18:08) zoom in 1 
+\i (00:18:08) setwindow pcb
+\i (00:18:08) zoom in 30.0813 14.9853
+\i (00:18:08) trapsize 136
+\i (00:18:10) zoom in 1 
+\i (00:18:10) setwindow pcb
+\i (00:18:10) zoom in 29.9972 15.0070
+\i (00:18:10) trapsize 68
+\i (00:18:10) zoom in 1 
+\i (00:18:10) setwindow pcb
+\i (00:18:10) zoom in 29.9972 15.0070
+\i (00:18:10) trapsize 34
+\i (00:18:10) zoom in 1 
+\i (00:18:10) setwindow pcb
+\i (00:18:10) zoom in 29.9972 15.0070
+\i (00:18:10) trapsize 17
+\i (00:18:10) zoom in 1 
+\i (00:18:10) setwindow pcb
+\i (00:18:10) zoom in 29.9972 15.0071
+\i (00:18:10) trapsize 8
+\i (00:18:10) zoom in 1 
+\i (00:18:10) setwindow pcb
+\i (00:18:10) zoom in 29.9972 15.0071
+\i (00:18:10) trapsize 4
+\i (00:18:10) zoom in 1 
+\i (00:18:10) setwindow pcb
+\i (00:18:10) zoom in 29.9972 15.0071
+\i (00:18:10) trapsize 2
+\i (00:18:12) zoom out 1 
+\i (00:18:12) setwindow pcb
+\i (00:18:12) zoom out 30.0000 15.0000
+\i (00:18:12) trapsize 4
+\i (00:18:12) zoom out 1 
+\i (00:18:12) setwindow pcb
+\i (00:18:12) zoom out 30.0001 15.0000
+\i (00:18:12) trapsize 8
+\i (00:18:12) zoom out 1 
+\i (00:18:12) setwindow pcb
+\i (00:18:12) zoom out 30.0001 15.0000
+\i (00:18:12) trapsize 17
+\i (00:18:12) zoom out 1 
+\i (00:18:12) setwindow pcb
+\i (00:18:12) zoom out 30.0000 15.0000
+\i (00:18:12) trapsize 34
+\i (00:18:12) zoom out 1 
+\i (00:18:12) setwindow pcb
+\i (00:18:12) zoom out 30.0001 14.9999
+\i (00:18:12) trapsize 68
+\i (00:18:12) zoom out 1 
+\i (00:18:12) setwindow pcb
+\i (00:18:12) zoom out 30.0001 14.9999
+\i (00:18:12) trapsize 136
+\i (00:18:12) zoom out 1 
+\i (00:18:12) setwindow pcb
+\i (00:18:12) zoom out 30.0001 14.9999
+\i (00:18:12) trapsize 271
+\i (00:18:12) zoom out 1 
+\i (00:18:12) setwindow pcb
+\i (00:18:12) zoom out 30.0000 14.9999
+\i (00:18:12) trapsize 543
+\i (00:18:12) zoom out 1 
+\i (00:18:12) setwindow pcb
+\i (00:18:12) zoom out 30.0001 15.0000
+\i (00:18:12) trapsize 1086
+\i (00:18:12) zoom out 1 
+\i (00:18:12) setwindow pcb
+\i (00:18:12) zoom out 30.0001 15.0000
+\i (00:18:12) trapsize 2171
+\i (00:18:12) zoom out 1 
+\i (00:18:12) setwindow pcb
+\i (00:18:12) zoom out 30.0000 14.9999
+\i (00:18:12) trapsize 4343
+\i (00:18:12) zoom out 1 
+\i (00:18:12) setwindow pcb
+\i (00:18:12) zoom out 33.0343 15.0000
+\i (00:18:12) trapsize 8686
+\i (00:18:12) zoom out 1 
+\i (00:18:12) setwindow pcb
+\i (00:18:12) zoom out 116.0686 15.0000
+\i (00:18:12) trapsize 13174
+\i (00:18:15) pick grid 84.1154 20.3513
+\t (00:18:15) last pick:  85.0000  20.0000
+\i (00:18:15) zoom fit 
+\i (00:18:15) trapsize 1901
+\i (00:18:16) zoom out 1 
+\i (00:18:16) setwindow pcb
+\i (00:18:16) zoom out 30.7969 15.0951
+\i (00:18:16) trapsize 3802
+\i (00:19:22) etchedit 
+\i (00:19:33) etchedit 
+\i (00:19:34) pick grid -15.4342 34.8649
+\t (00:19:34) last pick:  -15.0000  35.0000
+\i (00:19:34) drag_start grid -11.4803 32.1275
+\i (00:19:34) drag_stop -5.6253 28.7819
+\i (00:19:35) pick grid 3.7274 25.1320
+\t (00:19:35) last pick:  5.0000  25.0000
+\i (00:19:35) add connect 
+\t (00:19:35) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg156."
+\t (00:19:35) No valid items selected for the current operation, exiting.
+\i (00:19:35) etchedit 
+\i (00:19:40) etchedit 
+\i (00:19:52) prepopup 6.6168 24.9800
+\i (00:21:01) pop dyn_option_select 'Modify design padstack@:@All instances' 
+\i (00:21:01) mod padstack 
+\i (00:21:18) setwindow form.padedit
+\i (00:21:18) FORM padedit hole_size_x 3. 
+\i (00:22:22) pse_update 
+\i (00:22:39) setwindow text
+\i (00:22:39) close 
+\i (00:22:44) fillin yes 
+\i (00:23:03) setwindow form.padedit
+\i (00:23:03) pse_update 
+\i (00:23:04) setwindow text
+\i (00:23:04) close 
+\i (00:23:05) fillin yes 
+\i (00:23:06) setwindow form.padedit
+\i (00:23:06) pse_exit
+\t (00:23:06) DRC Required please wait...
+\t (00:23:06) Performing DRC...
+\t (00:23:06) Multithreaded DRC update (8 threads).
+\t (00:23:07) No DRC errors detected.
+\i (00:23:07) setwindow pcb
+\i (00:23:07) etchedit 
+\i (00:23:07) pick grid 70.0326 18.2126
+\t (00:23:07) last pick:  70.0000  20.0000
+\i (00:23:10) done 
+\i (00:23:10) etchedit 
+\i (00:23:16) fix 
+\t (00:23:16) Adjust find filter then select an element or group of elements.
+\i (00:23:31) setwindow form.find
+\i (00:23:31) FORM find all_on  
+\i (00:23:32) FORM find all_off  
+\i (00:23:33) FORM find all_on  
+\i (00:23:34) FORM find all_off  
+\i (00:23:35) FORM find all_on  
+\i (00:23:36) FORM find all_off  
+\i (00:23:36) FORM find all_off  
+\i (00:23:37) FORM find all_off  
+\i (00:23:37) FORM find all_on  
+\i (00:23:40) FORM find all_off  
+\i (00:23:41) FORM find all_on  
+\i (00:23:42) FORM find all_off  
+\i (00:23:43) FORM find all_on  
+\i (00:23:43) FORM find all_off  
+\i (00:23:44) FORM find all_on  
+\i (00:23:45) FORM find all_off  
+\i (00:23:50) FORM find all_on  
+\i (00:23:51) setwindow pcb
+\i (00:23:51) pick grid 6.2366 23.9154
+\t (00:23:51) last pick:  5.0000  25.0000
+\i (00:23:52) pick grid 54.5969 24.5998
+\t (00:23:52) last pick:  55.0000  25.0000
+\i (00:23:53) pick grid 55.9656 5.5142
+\t (00:23:53) last pick:  55.0000  5.0000
+\i (00:23:54) pick grid 5.8564 4.1455
+\t (00:23:54) last pick:  5.0000  5.0000
+\i (00:23:56) pick grid 5.9325 25.4362
+\t (00:23:56) last pick:  5.0000  25.0000
+\i (00:23:56) pick grid dbl 5.9325 25.4362
+\t (00:23:56) last pick:  5.0000  25.0000
+\i (00:23:56) pick grid 5.9325 25.4362
+\t (00:23:56) last pick:  5.0000  25.0000
+\i (00:23:56) pick grid dbl 5.9325 25.4362
+\t (00:23:56) last pick:  5.0000  25.0000
+\i (00:23:57) pick grid 5.9325 25.4362
+\t (00:23:57) last pick:  5.0000  25.0000
+\i (00:23:57) pick grid dbl 5.9325 25.4362
+\t (00:23:57) last pick:  5.0000  25.0000
+\i (00:23:57) pick grid 56.2697 24.8279
+\t (00:23:57) last pick:  55.0000  25.0000
+\i (00:23:58) pick grid 55.2052 5.9704
+\t (00:23:58) last pick:  55.0000  5.0000
+\i (00:23:59) pick grid 4.1076 4.9819
+\t (00:23:59) last pick:  5.0000  5.0000
+\i (00:24:00) pick grid 4.4117 25.1320
+\t (00:24:00) last pick:  5.0000  25.0000
+\i (00:24:00) pick grid 52.7720 24.9800
+\t (00:24:00) last pick:  55.0000  25.0000
+\i (00:24:01) pick grid 54.6729 5.0580
+\t (00:24:01) last pick:  55.0000  5.0000
+\i (00:24:02) pick grid 4.7919 5.0580
+\t (00:24:02) last pick:  5.0000  5.0000
+\i (00:24:02) pick grid 6.4647 24.4477
+\t (00:24:02) last pick:  5.0000  25.0000
+\i (00:24:10) pick grid 80.8301 5.2100
+\t (00:24:10) last pick:  80.0000  5.0000
+\i (00:24:13) delete 
+\i (00:24:14) pick grid 52.3158 5.5902
+\t (00:24:14) last pick:  50.0000  5.0000
+\t (00:24:14) Cannot edit Symbol "Mtg156". It has the FIXED property.
+\i (00:24:14) pick grid 53.1522 5.2861
+\t (00:24:14) last pick:  55.0000  5.0000
+\t (00:24:14) Cannot edit Symbol "Mtg156". It has the FIXED property.
+\i (00:24:14) pick grid 54.5209 4.4497
+\t (00:24:14) last pick:  55.0000  5.0000
+\t (00:24:14) Cannot edit Symbol "Mtg156". It has the FIXED property.
+\i (00:24:15) pick grid 54.9771 23.0030
+\t (00:24:15) last pick:  55.0000  25.0000
+\t (00:24:15) Cannot edit Symbol "Mtg156". It has the FIXED property.
+\i (00:24:15) pick grid dbl 54.9771 23.0030
+\t (00:24:15) last pick:  55.0000  25.0000
+\t (00:24:15) Cannot edit Symbol "Mtg156". It has the FIXED property.
+\i (00:24:15) pick grid 55.6614 23.1550
+\t (00:24:15) last pick:  55.0000  25.0000
+\t (00:24:15) Cannot edit Symbol "Mtg156". It has the FIXED property.
+\i (00:24:16) pick grid 5.2481 24.3717
+\t (00:24:16) last pick:  5.0000  25.0000
+\t (00:24:16) Cannot edit Symbol "Mtg156". It has the FIXED property.
+\i (00:24:16) pick grid dbl 5.2481 24.3717
+\t (00:24:16) last pick:  5.0000  25.0000
+\t (00:24:16) Cannot edit Symbol "Mtg156". It has the FIXED property.
+\i (00:24:17) pick grid 5.4002 6.4267
+\t (00:24:17) last pick:  5.0000  5.0000
+\t (00:24:17) Cannot edit Symbol "Mtg156". It has the FIXED property.
+\i (00:24:17) pick grid 5.0200 5.8183
+\t (00:24:17) last pick:  5.0000  5.0000
+\t (00:24:17) Cannot edit Symbol "Mtg156". It has the FIXED property.
+\i (00:24:17) pick grid dbl 5.0200 5.8183
+\t (00:24:17) last pick:  5.0000  5.0000
+\t (00:24:17) Cannot edit Symbol "Mtg156". It has the FIXED property.
+\i (00:24:19) pick grid 32.0136 27.1851
+\t (00:24:19) last pick:  30.0000  25.0000
+\t (00:24:19) Rectangle "Package Keepin/All"
+\i (00:24:19) pick grid dbl 32.0136 27.1851
+\t (00:24:19) last pick:  30.0000  25.0000
+\t (00:24:19) Rectangle "Route Keepin/All"
+\i (00:24:20) pick grid 57.4103 38.3627
+\t (00:24:20) last pick:  55.0000  40.0000
+\i (00:24:21) undo 
+\i (00:24:21) trapsize 3802
+\i (00:24:21) etchedit 
+\i (00:24:22) pick grid 33.3823 35.7013
+\t (00:24:22) last pick:  35.0000  35.0000
+\i (00:24:25) pick grid -3.1921 30.0745
+\t (00:24:25) last pick:  -5.0000  30.0000
+\i (00:24:26) pick grid -0.1506 29.8464
+\t (00:24:26) last pick:  0.0000  30.0000
+\i (00:24:26) pick grid dbl -0.1506 29.8464
+\t (00:24:26) last pick:  0.0000  30.0000
+\i (00:24:27) pick grid -1.8234 33.0400
+\t (00:24:27) last pick:  0.0000  35.0000
+\i (00:24:28) pick grid 6.6929 24.1435
+\t (00:24:28) last pick:  5.0000  25.0000
+\i (00:24:28) add connect 
+\t (00:24:28) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg156."
+\t (00:24:28) No valid items selected for the current operation, exiting.
+\i (00:24:28) etchedit 
+\i (00:24:28) pick grid dbl 6.6929 24.1435
+\t (00:24:28) last pick:  5.0000  25.0000
+\i (00:24:28) add connect 
+\t (00:24:28) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg156."
+\t (00:24:28) No valid items selected for the current operation, exiting.
+\i (00:24:28) etchedit 
+\i (00:24:28) pick grid 6.6929 24.1435
+\t (00:24:28) last pick:  5.0000  25.0000
+\i (00:24:28) add connect 
+\t (00:24:28) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg156."
+\t (00:24:28) No valid items selected for the current operation, exiting.
+\i (00:24:28) etchedit 
+\i (00:24:28) pick grid dbl 6.6929 24.1435
+\t (00:24:28) last pick:  5.0000  25.0000
+\i (00:24:28) add connect 
+\t (00:24:29) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg156."
+\t (00:24:29) No valid items selected for the current operation, exiting.
+\i (00:24:29) etchedit 
+\i (00:24:29) pick grid 6.6929 24.1435
+\t (00:24:29) last pick:  5.0000  25.0000
+\i (00:24:30) drag_start grid 53.7605 24.1435
+\i (00:24:30) move 
+\t (00:24:30) Cannot edit Symbol "Mtg156". It has the FIXED property.
+\t (00:24:30) No valid items selected for the current operation, exiting.
+\i (00:24:30) etchedit 
+\i (00:24:31) drag_stop grid 48.2857 20.1896
+\i (00:24:31) drag_start grid 53.3803 25.9685
+\i (00:24:31) move 
+\t (00:24:31) Cannot edit Symbol "Mtg156". It has the FIXED property.
+\t (00:24:31) No valid items selected for the current operation, exiting.
+\i (00:24:31) etchedit 
+\i (00:24:31) drag_stop grid 47.9816 20.1896
+\i (00:24:32) drag_start grid 41.1381 27.4892
+\i (00:24:32) move 
+\t (00:24:32) last pick:  40.0000  25.0000
+\t (00:24:32) Element has no origin, using pick.
+\t (00:24:32) Pick new location for the element(s).
+\i (00:24:33) drag_stop grid 45.1682 30.6828
+\i (00:24:33) etchedit 
+\i (00:24:34) undo 
+\i (00:24:34) trapsize 3802
+\i (00:24:34) etchedit 
+\i (00:24:34) undo 
+\i (00:24:35) trapsize 3802
+\i (00:24:35) etchedit 
+\i (00:24:35) pick grid 67.6755 16.6918
+\t (00:24:35) last pick:  70.0000  15.0000
+\i (00:24:35) save 
+\i (00:24:37) fillin yes 
+\i (00:24:37) etchedit 
+\i (00:24:37) drag_start grid 55.1292 23.8394
+\i (00:24:37) move 
+\t (00:24:37) Cannot edit Symbol "Mtg156". It has the FIXED property.
+\t (00:24:37) No valid items selected for the current operation, exiting.
+\i (00:24:37) etchedit 
+\i (00:24:38) drag_stop grid 44.4078 11.2171
+\i (00:24:38) drag_start grid 54.8250 5.1340
+\i (00:24:38) move 
+\t (00:24:38) Cannot edit Symbol "Mtg156". It has the FIXED property.
+\t (00:24:38) No valid items selected for the current operation, exiting.
+\i (00:24:38) etchedit 
+\i (00:24:38) drag_stop grid 37.7925 15.9314
+\i (00:24:39) drag_start grid 5.0200 6.1225
+\i (00:24:39) move 
+\t (00:24:39) Cannot edit Symbol "Mtg156". It has the FIXED property.
+\t (00:24:39) No valid items selected for the current operation, exiting.
+\i (00:24:39) etchedit 
+\i (00:24:39) drag_stop grid 21.6724 18.1365
+\i (00:24:39) drag_start grid 6.6929 24.7518
+\i (00:24:39) move 
+\t (00:24:39) Cannot edit Symbol "Mtg156". It has the FIXED property.
+\t (00:24:39) No valid items selected for the current operation, exiting.
+\i (00:24:39) etchedit 
+\i (00:24:39) drag_stop grid 35.7394 10.8369
+\i (00:24:40) pick grid 38.4008 12.5097
+\t (00:24:40) last pick:  40.0000  15.0000
+\i (00:24:40) drag_start grid 37.8685 16.6158
+\i (00:24:41) drag_stop 31.7094 12.3576
+\i (00:24:41) drag_start grid 35.5874 15.9314
+\i (00:24:41) drag_stop 19.0871 5.3621
+\i (00:24:47) add rect 
+\i (00:24:48) pick grid -20.0726 15.0190
+\t (00:24:48) last pick:  -20.0000  15.0000
+\i (00:24:49) pick grid -17.4873 12.4337
+\t (00:24:49) last pick:  -15.0000  10.0000
+\t (00:24:50) No valid name selected.
+\i (00:24:51) fillin "menu_cancel"
+\i (00:24:52) pick grid -7.8304 7.4912
+\t (00:24:52) last pick:  -10.0000  5.0000
+\i (00:24:53) pick grid -12.6208 21.3301
+\t (00:24:53) last pick:  -15.0000  20.0000
+\i (00:24:55) fillin "menu_cancel"
+\i (00:24:56) Esc 
+\i (00:24:57) done 
+\i (00:24:57) etchedit 
+\i (00:24:58) pick grid -17.3352 26.4247
+\t (00:24:58) last pick:  -15.0000  25.0000
+\i (00:24:58) drag_start grid -24.0266 23.8394
+\i (00:24:59) drag_stop -7.6783 0.0394
+\i (00:25:00) drag_start grid -13.5333 11.9014
+\i (00:25:00) drag_stop grid -3.9525 28.3256
+\i (00:25:01) pick grid -17.7154 22.2426
+\t (00:25:01) last pick:  -20.0000  20.0000
+\i (00:25:03) drag_start grid -25.2432 21.9384
+\i (00:25:04) drag_stop -5.4732 0.8759
+\i (00:25:06) delete 
+\t (00:25:06) Selected item not valid for current operation, ignored: Drc Error "Top, Shape To Shape Spacing"
+\i (00:25:06) etchedit 
+\i (00:25:10) done 
+\i (00:25:10) etchedit 
+\i (00:25:11) drag_start grid 66.9911 15.8554
+\i (00:25:11) drag_stop 67.7515 -3.6104
+\i (00:27:00) zoom fit 
+\i (00:27:00) trapsize 1901
+\i (00:27:03) zoom out 1 
+\i (00:27:03) setwindow pcb
+\i (00:27:03) zoom out 30.0365 15.0951
+\i (00:27:03) trapsize 3802
+\i (00:27:42) pick grid 68.5119 5.6663
+\t (00:27:42) last pick:  70.0000  5.0000
+\i (00:28:42) roam y 96 
+\i (00:28:42) roam y 96
+\i (00:28:42) roam y 96 
+\i (00:28:42) roam y 96
+\i (00:28:43) roam y -96 
+\i (00:28:43) roam y -96
+\i (00:28:43) roam y -96 
+\i (00:28:43) roam y -96
+\i (00:29:06) fix 
+\t (00:29:06) Adjust find filter then select an element or group of elements.
+\i (00:29:06) pick grid 3.8795 23.8331
+\t (00:29:06) last pick:  5.0000  25.0000
+\i (00:29:07) pick grid 5.2482 5.0517
+\t (00:29:07) last pick:  5.0000  5.0000
+\i (00:29:08) pick grid 55.2052 4.5194
+\t (00:29:08) last pick:  55.0000  5.0000
+\i (00:29:09) pick grid 54.5969 23.7570
+\t (00:29:09) last pick:  55.0000  25.0000
+\i (00:29:10) fix 
+\t (00:29:10) Adjust find filter then select an element or group of elements.
+\i (00:29:11) pick grid 3.8795 38.0522
+\t (00:29:11) last pick:  5.0000  40.0000
+\i (00:29:14) move 
+\t (00:29:14) Select element(s) to move.
+\i (00:29:15) drag_start grid 5.0961 25.2018
+\i (00:29:15) drag_stop 17.7945 17.6740
+\t (00:29:15) Cannot edit Symbol "Mtg156". It has the FIXED property.
+\i (00:29:16) drag_start grid 53.5324 24.6695
+\i (00:29:16) drag_stop 44.1797 15.0887
+\t (00:29:16) Cannot edit Symbol "Mtg156". It has the FIXED property.
+\i (00:29:16) drag_start grid 53.6084 4.5194
+\i (00:29:16) drag_stop 41.0621 11.4389
+\t (00:29:16) Cannot edit Symbol "Mtg156". It has the FIXED property.
+\i (00:29:17) drag_start grid 6.9970 5.9641
+\i (00:29:17) drag_stop 18.9350 12.4274
+\t (00:29:17) Cannot edit Symbol "Mtg156". It has the FIXED property.
+\i (00:29:32) save 
+\i (00:29:32) fillin yes 
+\i (00:29:32) etchedit 
+\i (00:29:37) save 
+\i (00:29:37) fillin yes 
+\i (00:29:37) etchedit 
+\i (00:29:38) save 
+\i (00:29:38) fillin yes 
+\i (00:29:38) etchedit 
+\i (00:29:39) save 
+\i (00:29:40) fillin yes 
+\i (00:29:40) etchedit 
+\i (00:29:40) save 
+\i (00:29:41) fillin yes 
+\i (00:29:41) etchedit 
+\i (00:29:41) save 
+\i (00:29:41) fillin yes 
+\i (00:29:41) etchedit 
+\i (00:29:42) save 
+\i (00:29:42) fillin yes 
+\i (00:29:42) etchedit 
+\i (00:29:43) save 
+\i (00:29:43) fillin yes 
+\i (00:29:43) etchedit 
+\i (00:29:43) save 
+\i (00:29:43) fillin yes 
+\i (00:29:43) etchedit 
+\i (00:29:44) save 
+\i (00:29:44) fillin yes 
+\i (00:29:44) etchedit 
+\i (00:29:44) save 
+\i (00:29:44) fillin yes 
+\i (00:29:44) etchedit 
+\i (00:29:45) save 
+\i (00:29:45) fillin yes 
+\i (00:29:45) etchedit 
+\i (00:30:01) place manual 
+\i (00:30:02) setwindow form.plc_manual
+\i (00:30:02) FORM plc_manual cancel  
+\i (00:30:02) setwindow pcb
+\i (00:30:02) etchedit 
+\i (00:30:03) place manual 
+\i (00:30:13) setwindow form.plc_manual
+\i (00:30:13) FORM plc_manual categories Components by refdes 
+\i (00:30:19) FORM plc_manual tree  C1 'Components by refdes' 
+\i (00:30:19) FORM plc_manual tree 'MULTISEL YES' C1 'Components by refdes' 
+\t (00:30:19) Placing C1 / CAP POL_CAP196_470UF / CAP196 on Top.
+\i (00:30:21) FORM plc_manual cancel  
+\i (00:30:21) setwindow pcb
+\i (00:30:21) etchedit 
+\i (00:30:23) place manual 
+\i (00:31:20) setwindow form.plc_manual
+\i (00:31:20) FORM plc_manual tree  'Components by refdes' 
+\i (00:31:56) FORM plc_manual tree 'MULTISEL YES' J2 'Components by refdes' 
+\t (00:31:56) Placing J2 / CON2_JUMPER2_DC OUT / JUMPER2 on Top.
+\i (00:31:56) FORM plc_manual tree  J2 'Components by refdes' 
+\i (00:32:05) setwindow pcb
+\i (00:32:05) prepopup 12.7759 16.0012
+\i (00:32:13) prepopup 9.8865 15.0887
+\i (00:32:16) rotate 
+\t (00:32:16) Spin the element(s).
+\i (00:32:17) prepopup 12.8520 15.1647
+\i (00:32:23) Esc 
+\i (00:32:26) iangle -360.000
+\t (00:32:26) last angle:  +0.000 Degrees
+\i (00:32:41) FUNCKEY R ANGLE 90 
+\i (00:32:53) setwindow form.plc_manual
+\i (00:32:53) FORM plc_manual cancel  
+\i (00:32:53) setwindow pcb
+\i (00:32:53) etchedit 
+\i (00:32:58) pick grid 71.6295 19.2708
+\t (00:32:58) last pick:  70.0000  20.0000
+\e (00:32:59) Command not found: r~S
+\i (00:33:00) pick grid 71.6295 19.2708
+\t (00:33:00) last pick:  70.0000  20.0000
+\i (00:33:01) save 
+\i (00:33:02) fillin yes 
+\i (00:33:02) etchedit 
+\i (00:33:07) save 
+\i (00:33:08) fillin yes 
+\i (00:33:08) etchedit 
+\i (00:33:18) save 
+\i (00:33:19) fillin yes 
+\i (00:33:19) etchedit 
+\i (00:33:20) pick grid -15.9665 -12.0569
+\t (00:33:20) last pick:  -15.0000  -10.0000
+\i (00:33:21) pick grid -16.4227 -12.4371
+\t (00:33:21) last pick:  -15.0000  -10.0000
+\i (00:33:21) exit 
+\t (00:33:22)     Journal end - Mon Apr 19 11:20:21 2021

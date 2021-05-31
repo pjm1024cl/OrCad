@@ -1,0 +1,23 @@
+NE555_2303  Revised: Monday, May 17, 2021
+NE555 Timer Ckt          Revision: A1
+
+
+
+
+
+
+
+Bill Of Materials            May 24,2021      12:29:16	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C1	10uF
+2	1	C2	0.1uF
+3	1	D1	LED
+4	1	J1	CON2
+5	1	R1	560
+6	1	R2	1k
+7	1	R3	100k
+8	1	R4	220
+9	1	U1	NE555

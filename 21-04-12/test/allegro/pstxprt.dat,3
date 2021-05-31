@@ -1,0 +1,110 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Apr-12-2021 at 12:22:46 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='TEST';
+ POST_TIME='Sep 10 2012 04:46:09';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP POL_CAP196_470UF':;
+
+SECTION_NUMBER 1
+ '@TEST.SCHEMATIC1(SCH_1):INS2548@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@test.schematic1(sch_1):ins2548@discrete.\cap pol.normal\(chips)',
+ P_PATH='@test.schematic1(sch_1):page1_ins2548@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_CAP300_0.33UF':;
+
+SECTION_NUMBER 1
+ '@TEST.SCHEMATIC1(SCH_1):INS2573@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@test.schematic1(sch_1):ins2573@discrete.\cap np.normal\(chips)',
+ P_PATH='@test.schematic1(sch_1):page1_ins2573@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_CAP300_0.1UF':;
+
+SECTION_NUMBER 1
+ '@TEST.SCHEMATIC1(SCH_1):INS2646@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@test.schematic1(sch_1):ins2646@discrete.\cap np.normal\(chips)',
+ P_PATH='@test.schematic1(sch_1):page1_ins2646@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_DO41_1N4001':;
+
+SECTION_NUMBER 1
+ '@TEST.SCHEMATIC1(SCH_1):INS2466@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@test.schematic1(sch_1):ins2466@discrete.\diode.normal\(chips)',
+ P_PATH='@test.schematic1(sch_1):page1_ins2466@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE_DO41_1N4001':;
+
+SECTION_NUMBER 1
+ '@TEST.SCHEMATIC1(SCH_1):INS2482@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@test.schematic1(sch_1):ins2482@discrete.\diode.normal\(chips)',
+ P_PATH='@test.schematic1(sch_1):page1_ins2482@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE_DO41_1N4001':;
+
+SECTION_NUMBER 1
+ '@TEST.SCHEMATIC1(SCH_1):INS2498@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@test.schematic1(sch_1):ins2498@discrete.\diode.normal\(chips)',
+ P_PATH='@test.schematic1(sch_1):page1_ins2498@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'DIODE_DO41_1N4001':;
+
+SECTION_NUMBER 1
+ '@TEST.SCHEMATIC1(SCH_1):INS2514@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@test.schematic1(sch_1):ins2514@discrete.\diode.normal\(chips)',
+ P_PATH='@test.schematic1(sch_1):page1_ins2514@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_JUMPER2_AC 6V':;
+
+SECTION_NUMBER 1
+ '@TEST.SCHEMATIC1(SCH_1):INS2220@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@test.schematic1(sch_1):ins2220@connector.\con2.normal\(chips)',
+ P_PATH='@test.schematic1(sch_1):page1_ins2220@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON2_JUMPER2_DC OUT':;
+
+SECTION_NUMBER 1
+ '@TEST.SCHEMATIC1(SCH_1):INS2429@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@test.schematic1(sch_1):ins2429@connector.\con2.normal\(chips)',
+ P_PATH='@test.schematic1(sch_1):page1_ins2429@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'LM7805/TO_5_TO220_LM7805/TO':;
+
+SECTION_NUMBER 1
+ '@TEST.SCHEMATIC1(SCH_1):INS6220@TEST.LM7805/TO_5.NORMAL(CHIPS)':
+ C_PATH='@test.schematic1(sch_1):ins6220@test.\lm7805/to_5.normal\(chips)',
+ P_PATH='@test.schematic1(sch_1):page1_ins6220@test.\lm7805/to_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

@@ -1,0 +1,15 @@
+\t (00:00:04) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:04)     Journal start - Mon May 17 11:47:08 2021
+\t (00:00:04)         Host=CAD20 User=user Pid=940 CPUs=8
+\t (00:00:04) 
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Database opened: C:/PCB/NE555_2303/allegro/NE555_2303.brd
+\i (00:00:07) trapsize 10566
+\i (00:00:07) trapsize 10372
+\i (00:00:07) trapsize 10599
+\i (00:00:07) trapsize 10801
+\i (00:00:07) trapsize 13802
+\i (00:00:08) generaledit 
+\i (00:01:30) trapsize 27687
+\i (00:01:30) exit 
+\t (00:01:31)     Journal end - Mon May 17 11:48:34 2021
