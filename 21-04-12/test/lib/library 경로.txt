@@ -1,2 +1,0 @@
-C:\Cadence\SPB_16.6\share\pcb\pcb_lib\symbols 
-위 경로에다가 Library 심볼 파일을 넣어주면 된다.
